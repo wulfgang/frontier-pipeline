@@ -1,0 +1,11 @@
+{
+  "hard_pass": false,
+  "soft_pass": true,
+  "issues": [
+    {
+      "severity": "hard",
+      "code": "investment_logic",
+      "message": "ranked project 'HKUDS/nanobot' rationale/business_case does not overlap any investment theme tokens"
+    }
+  ]
+}

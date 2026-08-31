@@ -1,0 +1,105 @@
+{
+  "title": "Frontier AI-Agent Project Ranking Report",
+  "report_date": "2026-08-31",
+  "ranked_projects": [
+    {
+      "repo_id": "NousResearch/hermes-agent",
+      "rank": 1,
+      "rationale": "Highest star count (238,857), broad cross-platform support (Claude, ChatGPT, Codex, Gemini, OpenAI), and strong brand alignment with enterprise developer tooling; directly enables productivity gains demonstrated in real-world contexts like Newell\u2019s 80% marketing cost reduction.",
+      "business_case": "Hermes-Agent serves as a plug-and-play agentic interface for high-value workflows\u2014code generation, documentation, research, and automation\u2014reducing operational overhead without headcount changes. Its compatibility with leading IDEs and LLM APIs positions it as a foundational layer for AI-native application development and internal tooling.",
+      "citations": [
+        "wiki/projects/NousResearch-hermes-agent.md",
+        "https://www.bloomberg.com/news/videos/2026-08-31/ai-cuts-newell-marketing-costs-80-video"
+      ]
+    },
+    {
+      "repo_id": "langchain-ai/langchain",
+      "rank": 2,
+      "rationale": "Industry-standard framework (145,356 stars) with mature ecosystem, enterprise adoption signals (enterprise, TypeScript, Python, RAG, LangGraph), and direct relevance to infrastructure investments like Nvidia-MediaTek collaboration on AI chip ecosystems.",
+      "business_case": "LangChain provides the orchestration backbone for building production-grade AI agents that integrate with hardware-accelerated inference stacks (e.g., Nvidia GPUs + MediaTek SoCs), enabling scalable deployment of context-aware, multi-step applications across cloud and edge.",
+      "citations": [
+        "wiki/projects/langchain-ai-langchain.md",
+        "https://www.bloomberg.com/news/articles/2026-08-31/nvidia-to-invest-3-5-billion-in-chipmaker-mediatek"
+      ]
+    },
+    {
+      "repo_id": "firecrawl/firecrawl",
+      "rank": 3,
+      "rationale": "Massive traction (174,725 stars) and unique value proposition: web-scale context ingestion via AI-native crawling\u2014critical for RAG, autonomous research, and competitive intelligence, especially amid rising antitrust scrutiny (e.g., Prosus vs Meituan).",
+      "business_case": "FireCrawl enables real-time, structured data acquisition from dynamic sources\u2014supporting compliance monitoring, market intelligence, and automated due diligence. Its integration with agent frameworks (e.g., CrewAI, Graphify) accelerates time-to-insight while reducing manual scraping costs and legal risk.",
+      "citations": [
+        "wiki/projects/firecrawl-firecrawl.md",
+        "https://www.bloomberg.com/news/articles/2026-08-31/brazil-s-top-delivery-app-files-complaint-against-chinese-rival"
+      ]
+    },
+    {
+      "repo_id": "Graphify-Labs/graphify",
+      "rank": 4,
+      "rationale": "Largest star count among knowledge-graph-focused agents (105,211), uniquely bridges code intelligence and domain-specific reasoning using deterministic AST parsing and MCP\u2014aligning with IBM\u2019s AssetOpsBench and industry demand for auditable, local-first AI.",
+      "business_case": "Graphify transforms legacy codebases and technical documentation into queryable, explainable knowledge graphs\u2014enabling engineering teams to accelerate onboarding, reduce incident resolution time, and embed compliance guardrails (e.g., for national security\u2013sensitive systems like WB Electronics\u2019 drone platform).",
+      "citations": [
+        "wiki/projects/Graphify-Labs-graphify.md",
+        "https://www.bloomberg.com/news/articles/2026-08-31/polish-intelligence-probes-fire-at-top-drone-firm-wb-electronics"
+      ]
+    },
+    {
+      "repo_id": "crewAIInc/crewAI",
+      "rank": 5,
+      "rationale": "High velocity (56,942 stars) and clear product-market fit in collaborative, role-based agent orchestration\u2014complements leadership transitions (e.g., Apple\u2019s Cook succession) by enabling institutional knowledge retention and delegation via AI crews.",
+      "business_case": "CrewAI allows enterprises to codify expertise into reusable, auditable agent teams\u2014mitigating leadership transition risk by preserving decision logic, escalation paths, and domain heuristics across organizational change events.",
+      "citations": [
+        "wiki/projects/crewAIInc-crewAI.md",
+        "https://www.bloomberg.com/news/articles/2026-08-31/apple-s-cook-says-he-will-miss-this-work-as-he-leaves-ceo-role"
+      ]
+    },
+    {
+      "repo_id": "IBM/AssetOpsBench",
+      "rank": 6,
+      "rationale": "Niche-defining benchmark for physical-world AI agents (Industry 4.0, predictive maintenance); aligns with national security and industrial resilience themes highlighted in Poland\u2019s drone facility investigation.",
+      "business_case": "AssetOpsBench de-risks AI adoption in critical infrastructure by providing standardized evaluation of agent performance across IoT telemetry, HVAC systems, and work-order orchestration\u2014directly supporting defense-industrial supply chain integrity and regulatory compliance.",
+      "citations": [
+        "wiki/projects/IBM-AssetOpsBench.md",
+        "https://www.bloomberg.com/news/articles/2026-08-31/polish-intelligence-probes-fire-at-top-drone-firm-wb-electronics"
+      ]
+    },
+    {
+      "repo_id": "infiniflow/ragflow",
+      "rank": 7,
+      "rationale": "Leading open-source RAG engine (89,747 stars) with explicit agentic retrieval and context-engineering features\u2014strategically relevant to firms seeking cost-efficient, compliant alternatives to proprietary AI infra (e.g., Newell\u2019s 80% savings).",
+      "business_case": "RAGFlow delivers enterprise-grade context management without vendor lock-in or API dependency, reducing LLM inference costs and improving auditability\u2014key for regulated sectors (finance, healthcare, government) where data sovereignty and explainability are mandatory.",
+      "citations": [
+        "wiki/projects/infiniflow-ragflow.md",
+        "https://www.bloomberg.com/news/videos/2026-08-31/ai-cuts-newell-marketing-costs-80-video"
+      ]
+    },
+    {
+      "repo_id": "Significant-Gravitas/AutoGPT",
+      "rank": 8,
+      "rationale": "Foundational agentic project (187,032 stars) with enduring influence on autonomous goal decomposition; demonstrates viability of open-source, self-directed agents\u2014resonating with hyperscale infrastructure trends (Nvidia-MediaTek) and AI-for-science ambitions.",
+      "business_case": "AutoGPT validates the architectural pattern of recursive task planning and tool use\u2014a capability increasingly embedded in commercial developer tools (e.g., Cursor, Codex). Its open design lowers barriers to prototyping AI-native workflows across R&D and operations.",
+      "citations": [
+        "wiki/projects/Significant-Gravitas-AutoGPT.md",
+        "https://www.bloomberg.com/news/articles/2026-08-31/nvidia-to-invest-3-5-billion-in-chipmaker-mediatek"
+      ]
+    },
+    {
+      "repo_id": "HKUDS/nanobot",
+      "rank": 9,
+      "rationale": "High-star, lightweight, self-hosted personal agent framework (46,849 stars) emphasizing privacy, local LLMs, and workflow automation\u2014ideal for SMEs and developers seeking low-friction, non-cloud-dependent AI tooling.",
+      "business_case": "Nanobot enables rapid deployment of secure, offline-capable AI assistants for customer support, internal IT helpdesk, and sales enablement\u2014reducing SaaS licensing costs and mitigating data leakage risks in regulated environments.",
+      "citations": [
+        "wiki/projects/HKUDS-nanobot.md"
+      ]
+    },
+    {
+      "repo_id": "IBM/mcp-context-forge",
+      "rank": 10,
+      "rationale": "Strategic infrastructure layer for Model Context Protocol (MCP) interoperability (4,396 stars); acts as an AI gateway and registry\u2014critical for governance, observability, and federation across heterogeneous agent deployments.",
+      "business_case": "MCP-Context Forge provides centralized control plane for AI agent ecosystems: enforcing authentication, rate limiting, prompt guardrails, and telemetry\u2014essential for scaling AI responsibly across departments and compliance regimes (e.g., EU AI Act, SEC disclosure rules).",
+      "citations": [
+        "wiki/projects/IBM-mcp-context-forge.md"
+      ]
+    }
+  ],
+  "claims": []
+}
