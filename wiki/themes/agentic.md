@@ -9,3 +9,6 @@
 - [[projects/elizaOS-eliza]]
 - [[projects/SolaceLabs-solace-agent-mesh]]
 - [[projects/QwenLM-qwen-code]]
+- [[projects/google-adk-python]]
+- [[projects/flyteorg-flyte]]
+- [[projects/Tencent-WeKnora]]

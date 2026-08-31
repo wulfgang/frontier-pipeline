@@ -1,7 +1,7 @@
 ---
 repo_id: mem0ai/mem0
 url: https://github.com/mem0ai/mem0
-stars: 63036
+stars: 64434
 topics:
 - agents
 - ai
@@ -17,7 +17,7 @@ topics:
 - python
 - rag
 - state-management
-updated: '2026-08-11'
+updated: '2026-08-31'
 ---
 
 Universal memory layer for AI Agents

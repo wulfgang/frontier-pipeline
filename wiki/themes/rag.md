@@ -9,3 +9,5 @@
 - [[projects/infiniflow-ragflow]]
 - [[projects/langchain-ai-langchain]]
 - [[projects/thedotmack-claude-mem]]
+- [[projects/NirDiamant-GenAI_Agents]]
+- [[projects/Tencent-WeKnora]]

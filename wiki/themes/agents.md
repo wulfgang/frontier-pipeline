@@ -11,3 +11,5 @@
 - [[projects/crewAIInc-crewAI]]
 - [[projects/Fosowl-agenticSeek]]
 - [[projects/ruvnet-ruflo]]
+- [[projects/google-adk-python]]
+- [[projects/NirDiamant-GenAI_Agents]]

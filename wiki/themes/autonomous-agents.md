@@ -8,3 +8,5 @@
 - [[projects/Fosowl-agenticSeek]]
 - [[projects/ruvnet-ruflo]]
 - [[projects/netease-youdao-LobsterAI]]
+- [[projects/spinabot-brigade]]
+- [[projects/NirDiamant-GenAI_Agents]]

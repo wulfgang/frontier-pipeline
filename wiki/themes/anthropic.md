@@ -7,3 +7,4 @@
 - [[projects/NousResearch-hermes-agent]]
 - [[projects/langchain-ai-langchain]]
 - [[projects/thedotmack-claude-mem]]
+- [[projects/diegosouzapw-OmniRoute]]

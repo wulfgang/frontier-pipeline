@@ -6,3 +6,5 @@
 - [[projects/Fosowl-agenticSeek]]
 - [[projects/strukto-ai-mirage]]
 - [[projects/HKUDS-nanobot]]
+- [[projects/OpenNSWM-Lab-FAROS]]
+- [[projects/IBM-AssetOpsBench]]

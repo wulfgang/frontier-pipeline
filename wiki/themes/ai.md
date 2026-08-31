@@ -20,3 +20,8 @@
 - [[projects/crewAIInc-crewAI]]
 - [[projects/Fosowl-agenticSeek]]
 - [[projects/thedotmack-claude-mem]]
+- [[projects/spinabot-brigade]]
+- [[projects/google-adk-python]]
+- [[projects/NirDiamant-GenAI_Agents]]
+- [[projects/firecrawl-firecrawl]]
+- [[projects/Tencent-WeKnora]]

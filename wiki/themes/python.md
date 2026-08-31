@@ -10,3 +10,5 @@
 - [[projects/langchain-ai-langchain]]
 - [[projects/strukto-ai-mirage]]
 - [[projects/HKUDS-nanobot]]
+- [[projects/flyteorg-flyte]]
+- [[projects/NirDiamant-GenAI_Agents]]

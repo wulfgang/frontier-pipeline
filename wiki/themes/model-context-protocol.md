@@ -4,3 +4,4 @@
 
 - [[projects/IBM-mcp-context-forge]]
 - [[projects/HKUDS-nanobot]]
+- [[projects/IBM-AssetOpsBench]]

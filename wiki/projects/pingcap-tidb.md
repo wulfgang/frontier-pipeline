@@ -1,7 +1,7 @@
 ---
 repo_id: pingcap/tidb
 url: https://github.com/pingcap/tidb
-stars: 40419
+stars: 40477
 topics:
 - agent
 - agent-context
@@ -22,7 +22,7 @@ topics:
 - serverless
 - sql
 - tidb
-updated: '2026-08-11'
+updated: '2026-08-31'
 ---
 
 TiDB is built for agentic workloads that grow unpredictably, with ACID guarantees and native support for transactions, analytics, and vector search. No data silos. No noisy neighbors. No infrastructure ceiling.

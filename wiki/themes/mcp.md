@@ -10,3 +10,5 @@
 - [[projects/Graphify-Labs-graphify]]
 - [[projects/netease-youdao-LobsterAI]]
 - [[projects/HKUDS-nanobot]]
+- [[projects/diegosouzapw-OmniRoute]]
+- [[projects/NirDiamant-GenAI_Agents]]

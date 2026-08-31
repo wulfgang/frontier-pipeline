@@ -1,7 +1,7 @@
 ---
 repo_id: Significant-Gravitas/AutoGPT
 url: https://github.com/Significant-Gravitas/AutoGPT
-stars: 186520
+stars: 187032
 topics:
 - agentic-ai
 - agents
@@ -14,7 +14,7 @@ topics:
 - llm
 - openai
 - python
-updated: '2026-08-11'
+updated: '2026-08-31'
 ---
 
 AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.

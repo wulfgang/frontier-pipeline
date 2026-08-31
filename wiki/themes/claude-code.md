@@ -7,3 +7,5 @@
 - [[projects/ruvnet-ruflo]]
 - [[projects/strukto-ai-mirage]]
 - [[projects/thedotmack-claude-mem]]
+- [[projects/stablyai-orca]]
+- [[projects/diegosouzapw-OmniRoute]]
