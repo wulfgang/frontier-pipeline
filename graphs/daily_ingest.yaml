@@ -1,0 +1,16 @@
+name: daily_ingest
+nodes:
+  - id: github_ingest
+    uses: github_ingest
+    outputs: [repos.json]
+  - id: wiki_curate
+    uses: wiki_curate
+    inputs: [repos.json]
+    outputs: [wiki_done.json]
+  - id: pipeline_check
+    uses: pipeline_check
+    inputs: [repos.json, wiki_done.json]
+    outputs: [pipeline_check.json]
+edges:
+  - [github_ingest, wiki_curate]
+  - [wiki_curate, pipeline_check]

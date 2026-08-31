@@ -1,0 +1,14 @@
+.worktrees/
+.venv/
+.env
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.mypy_cache/
+artifacts/*/
+!artifacts/.gitkeep
+.DS_Store
+*.swp
+*.html
+!tests/fixtures/**/*.html
+!reports/**/*.html

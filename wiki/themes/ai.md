@@ -1,0 +1,22 @@
+# ai
+
+## Projects
+
+- [[projects/pingcap-tidb]]
+- [[projects/Significant-Gravitas-AutoGPT]]
+- [[projects/bytedance-deer-flow]]
+- [[projects/mem0ai-mem0]]
+- [[projects/IBM-mcp-context-forge]]
+- [[projects/strands-agents-harness-sdk]]
+- [[projects/zeroclaw-labs-zeroclaw]]
+- [[projects/elizaOS-eliza]]
+- [[projects/SolaceLabs-solace-agent-mesh]]
+- [[projects/aaif-goose-goose]]
+- [[projects/QwenLM-qwen-code]]
+- [[projects/infiniflow-ragflow]]
+- [[projects/code-yeongyu-oh-my-openagent]]
+- [[projects/NousResearch-hermes-agent]]
+- [[projects/langchain-ai-langchain]]
+- [[projects/crewAIInc-crewAI]]
+- [[projects/Fosowl-agenticSeek]]
+- [[projects/thedotmack-claude-mem]]

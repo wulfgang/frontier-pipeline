@@ -1,0 +1,138 @@
+{
+  "title": "Frontier AI Agent Projects Ranking Report",
+  "report_date": "2026-08-11",
+  "ranked_projects": [
+    {
+      "repo_id": "NousResearch/hermes-agent",
+      "rank": 1,
+      "rationale": "Hermes-Agent leads with 228,856 stars and broad ecosystem integration across Claude, OpenAI, Codex, and Gemini\u2014directly aligned with the surge in enterprise AI agent adoption highlighted by Salesforce\u2019s Slackbot rollout and Anthropic\u2019s Cowork launch. Its 'agent that grows with you' philosophy reflects the industry shift toward adaptive, long-horizon agentic systems.",
+      "business_case": "Enterprise-grade agentic platform enabling scalable, context-aware automation for customer support (Omilia), sales (Encore AI), and developer workflows (Claude Code). Integrates with existing LLM ecosystems while supporting MCP and openclaw, reducing vendor lock-in and lowering TCO for AI deployment.",
+      "citations": [
+        "wiki/projects/NousResearch-hermes-agent.md",
+        "https://venturebeat.com/technology/salesforce-rolls-out-new-slackbot-ai-agent-as-it-battles-microsoft-and",
+        "https://venturebeat.com/technology/anthropic-launches-cowork-a-claude-desktop-agent-that-works-in-your-files-no",
+        "https://venturebeat.com/infrastructure/claude-code-costs-up-to-usd200-a-month-goose-does-the-same-thing-for-free"
+      ]
+    },
+    {
+      "repo_id": "langchain-ai/langchain",
+      "rank": 2,
+      "rationale": "LangChain remains the de facto agent engineering platform (143,982 stars), foundational to RAGFlow, Graphify, and Solace Agent Mesh. Its dominance is reinforced by strategic alignment with enterprise AI infrastructure investments\u2014including Nvidia\u2019s $500B AI infrastructure package and Intel\u2019s $20B capital raise.",
+      "business_case": "Unified framework for building production-grade, multi-agent applications with built-in RAG, memory, tool orchestration, and cross-model compatibility. Critical enabler for regulated sectors like banking, where RBI mandates accelerated AI spend and compliance tools like Dili are emerging.",
+      "citations": [
+        "wiki/projects/langchain-ai-langchain.md",
+        "https://www.bloomberg.com/news/articles/2026-08-10/nvidia-to-team-with-wall-street-on-500-billion-package-ft-says",
+        "https://www.bloomberg.com/news/articles/2026-08-10/intel-is-said-to-near-share-sale-upsize-to-raise-20-billion",
+        "https://www.bloomberg.com/news/articles/2026-08-11/india-s-banking-regulator-urges-lenders-to-accelerate-ai-spend",
+        "https://techcrunch.com/2026/07/30/dili-raises-15-million-to-bring-ai-compliance-to-the-infrastructure-boom/"
+      ]
+    },
+    {
+      "repo_id": "infiniflow/ragflow",
+      "rank": 3,
+      "rationale": "RAGFlow (87,262 stars) uniquely fuses retrieval-augmented generation with agent capabilities\u2014addressing the core challenge of context grounding amid AI content flooding, as flagged by Pangram\u2019s $9M detection round and Google\u2019s redesigned search infrastructure.",
+      "business_case": "Context-layer infrastructure for LLMs in knowledge-intensive verticals: legal, healthcare, and financial services. Enables auditable, source-grounded reasoning\u2014key for Spotify\u2019s AI transparency mandate and RBI\u2019s AI governance expectations.",
+      "citations": [
+        "wiki/projects/infiniflow-ragflow.md",
+        "https://techcrunch.com/2026/07/29/as-ai-content-floods-the-internet-pangram-raises-9m-to-detect-it/",
+        "https://venturebeat.com/technology/google-just-redesigned-the-search-box-for-the-first-time-in-25-years-heres-why-it-matters-more-than-you-think",
+        "https://www.bloomberg.com/news/articles/2026-08-11/spotify-asks-creators-to-label-songs-when-they-re-ai-generated",
+        "https://www.bloomberg.com/news/articles/2026-08-11/india-s-banking-regulator-urges-lenders-to-accelerate-ai-spend"
+      ]
+    },
+    {
+      "repo_id": "Significant-Gravitas/AutoGPT",
+      "rank": 4,
+      "rationale": "AutoGPT (186,520 stars) pioneered autonomous agentic behavior and retains strong community momentum. Its accessibility mission resonates with Zuckerberg\u2019s AI manifesto on democratization and Sequoia\u2019s increased AI startup bets.",
+      "business_case": "Low-code entry point for SMEs and developers to deploy goal-driven agents\u2014ideal for e-commerce personalization (ex-Spotify startup), market research (Listen Labs), and infrastructure automation (Railway\u2019s AI-native cloud).",
+      "citations": [
+        "wiki/projects/Significant-Gravitas-AutoGPT.md",
+        "https://www.bloomberg.com/news/newsletters/2026-08-11/sequoia-raises-its-bets-on-ai-startups",
+        "https://www.bloomberg.com/news/videos/2026-08-10/five-takeaways-from-zuckerberg-s-manifesto-on-ai-video",
+        "https://techcrunch.com/2026/08/06/ex-spotify-employees-raise-10m-to-bring-the-ai-behind-its-recommendations-to-e-commerce/",
+        "https://venturebeat.com/technology/listen-labs-raises-usd69m-after-viral-billboard-hiring-stunt-to-scale-ai",
+        "https://venturebeat.com/infrastructure/railway-secures-usd100-million-to-challenge-aws-with-ai-native-cloud"
+      ]
+    },
+    {
+      "repo_id": "crewAIInc/crewAI",
+      "rank": 5,
+      "rationale": "CrewAI (56,942 stars) excels in role-playing, collaborative agent orchestration\u2014a critical capability for complex workflows in regulated environments (e.g., defense startups Neros and Hadrian) and infrastructure-heavy domains (Uniper\u2019s AI-driven data center transition).",
+      "business_case": "Framework for multi-agent collaboration with explicit role definition, memory sharing, and task delegation\u2014enabling secure, auditable AI operations in defense contracting, energy infrastructure, and financial compliance.",
+      "citations": [
+        "wiki/projects/crewAIInc-crewAI.md",
+        "https://www.bloomberg.com/news/articles/2026-08-11/defense-startup-neros-triples-valuation-to-2-5-billion",
+        "https://techcrunch.com/2026/08/06/defense-tech-hadrian-raises-1-37b-at-8b-valuation/",
+        "https://www.bloomberg.com/news/articles/2026-08-11/uniper-targets-data-center-sales-in-uk-germany-on-ai-demand",
+        "https://www.bloomberg.com/news/articles/2026-08-11/uniper-plans-to-sell-properties-to-data-center-operators-video"
+      ]
+    },
+    {
+      "repo_id": "Graphify-Labs/graphify",
+      "rank": 6,
+      "rationale": "Graphify (105,211 stars) delivers deterministic, local AST-based code understanding\u2014filling a high-value gap as AI coding tools proliferate (Claude Code, Goose, NousCoder) and semiconductor firms like Discovered Materials and Source Foundry scale chip development.",
+      "business_case": "Developer-first knowledge graph engine for legacy and modern codebases; enables secure, offline, explainable AI-assisted software engineering\u2014critical for hardware-software co-design in AI chip stacks and enterprise SaaS consolidation (e.g., Bending Spoons acquiring Airtable).",
+      "citations": [
+        "wiki/projects/Graphify-Labs-graphify.md",
+        "https://venturebeat.com/infrastructure/claude-code-costs-up-to-usd200-a-month-goose-does-the-same-thing-for-free",
+        "https://venturebeat.com/technology/nous-researchs-nouscoder-14b-is-an-open-source-coding-model-landing-right-in",
+        "https://techcrunch.com/2026/08/10/discovered-materials-is-playing-ai-whack-a-mole-to-hunt-cooler-chips/",
+        "https://techcrunch.com/2026/08/09/embattled-hedge-fund-situational-awareness-invests-400m-in-chip-startup-source-foundry/",
+        "https://techcrunch.com/2026/08/04/bending-spoons-to-buy-airtable-for-1-28b/"
+      ]
+    },
+    {
+      "repo_id": "mem0ai/mem0",
+      "rank": 7,
+      "rationale": "Mem0 (63,036 stars) solves persistent memory\u2014a foundational requirement for enterprise agents operating across sessions (e.g., Salesforce Slackbot, Anthropic Cowork) and regulated domains requiring audit trails (financial services, healthcare).",
+      "business_case": "Universal memory layer enabling long-term context retention, compliance logging, and cross-agent state synchronization\u2014key for financial institutions accelerating AI spend under RBI guidance and for AI customer service platforms like Omilia.",
+      "citations": [
+        "wiki/projects/mem0ai-mem0.md",
+        "https://www.bloomberg.com/news/articles/2026-08-11/india-s-banking-regulator-urges-lenders-to-accelerate-ai-spend",
+        "https://venturebeat.com/technology/salesforce-rolls-out-new-slackbot-ai-agent-as-it-battles-microsoft-and",
+        "https://venturebeat.com/technology/anthropic-launches-cowork-a-claude-desktop-agent-that-works-in-your-files-no",
+        "https://techcrunch.com/2026/08/06/omilia-raises-67m-to-scale-its-customer-support-platform/"
+      ]
+    },
+    {
+      "repo_id": "Fosowl/agenticSeek",
+      "rank": 8,
+      "rationale": "AgenticSeek (26,785 stars) embodies the frontier shift toward fully local, electricity-only AI agents\u2014responding to rising concerns about API costs, privacy (Spotify\u2019s transparency push), and infrastructure sovereignty (BRICS cross-border payments, India\u2019s iPhone supply chain localization).",
+      "business_case": "Zero-cloud, self-hosted autonomous agent for sensitive or offline use cases: government agencies, defense contractors, and manufacturing firms seeking air-gapped AI. Complements Uniper\u2019s energy transition strategy and BRICS financial infrastructure goals.",
+      "citations": [
+        "wiki/projects/Fosowl-agenticSeek.md",
+        "https://www.bloomberg.com/news/articles/2026-08-11/spotify-asks-creators-to-label-songs-when-they-re-ai-generated",
+        "https://www.bloomberg.com/news/articles/2026-08-11/india-s-malhotra-says-brics-eyeing-faster-cross-border-payments",
+        "https://www.bloomberg.com/sessions/2026-08-11/live-q-amp-a-why-apple-is-making-iphones-in-india-and-what-it-means-for-supply-chains",
+        "https://www.bloomberg.com/news/articles/2026-08-11/uniper-targets-data-center-sales-in-uk-germany-on-ai-demand"
+      ]
+    },
+    {
+      "repo_id": "bytedance/deer-flow",
+      "rank": 9,
+      "rationale": "Deer Flow (79,742 stars) pioneers long-horizon 'SuperAgent' capabilities with sandboxed execution and subagent delegation\u2014mirroring Anduril\u2019s $100B valuation trajectory and VinSpace\u2019s satellite mission autonomy, where multi-step, time-bound AI orchestration is essential.",
+      "business_case": "Long-duration AI workflow engine for R&D, aerospace, and infrastructure planning\u2014supporting autonomous mission design (VinSpace), drone swarm coordination (Neros), and complex EV manufacturing scaling (River).",
+      "citations": [
+        "wiki/projects/bytedance-deer-flow.md",
+        "https://www.bloomberg.com/news/articles/2026-08-11/vinspace-signs-launch-pact-with-spacex-for-2027-mission-mso67c3g",
+        "https://www.bloomberg.com/news/articles/2026-08-11/defense-startup-neros-triples-valuation-to-2-5-billion",
+        "https://techcrunch.com/2026/07/24/anduril-reportedly-in-talks-to-raise-funding-at-100b-valuation-more-than-3x-last-years-mark/",
+        "https://techcrunch.com/2026/08/05/indian-ev-two-wheeler-startup-river-raises-120m-after-scaling-with-one-model/"
+      ]
+    },
+    {
+      "repo_id": "HKUDS/nanobot",
+      "rank": 10,
+      "rationale": "Nanobot (46,849 stars) delivers ultra-lightweight, self-hosted agent frameworks\u2014meeting demand for accessible, modular AI tooling across diverse actors: from gig economy workers (Amazon/NYC regulation) to creators (Fish Audio\u2019s voice models) and SMEs (Na\u00efve\u2019s company setup automation).",
+      "business_case": "Plug-and-play personal AI assistant stack for non-enterprise users\u2014enabling rapid customization for labor rights advocacy, creator monetization, and micro-business formation, all underpinned by open, self-hosted infrastructure.",
+      "citations": [
+        "wiki/projects/HKUDS-nanobot.md",
+        "https://www.bloomberg.com/news/features/2026-08-11/amazon-is-in-the-crosshairs-of-mamdani-s-nyc-worker-agenda",
+        "https://techcrunch.com/2026/07/28/fish-audio-raises-50m-seed-to-build-ai-voice-models-for-creators-and-enterprises/",
+        "https://techcrunch.com/2026/08/06/naive-raises-28-5m-to-automate-the-grunt-work-of-setting-up-and-running-a-company/",
+        "https://www.bloomberg.com/news/articles/2026-08-11/dating-app-bumble-to-let-men-make-the-first-move-with-messaging-change"
+      ]
+    }
+  ],
+  "claims": []
+}

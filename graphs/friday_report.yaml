@@ -1,0 +1,23 @@
+name: friday_report
+nodes:
+  - id: invest_scan
+    uses: invest_scan
+    outputs: [investments.json]
+  - id: frontier_report
+    uses: frontier_report
+    inputs: [investments.json]
+    outputs: [report.md, report.json]
+  - id: checker
+    uses: checker
+    inputs: [report.md, report.json, investments.json]
+    outputs: [check.json]
+    on_hard_fail: stop
+  - id: render_share
+    uses: render_share
+    inputs: [report.md, check.json]
+    outputs: [report.html]
+    requires_check: hard_pass
+edges:
+  - [invest_scan, frontier_report]
+  - [frontier_report, checker]
+  - [checker, render_share]

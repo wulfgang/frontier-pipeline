@@ -1,0 +1,12 @@
+{
+  "items": [
+    {
+      "full_name": "acme/agentkit",
+      "html_url": "https://github.com/acme/agentkit",
+      "stargazers_count": 1200,
+      "description": "LLM agents toolkit",
+      "topics": ["ai-agents"],
+      "pushed_at": "2026-08-08T00:00:00Z"
+    }
+  ]
+}

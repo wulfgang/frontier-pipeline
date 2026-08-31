@@ -1,0 +1,11 @@
+{
+  "hard_pass": false,
+  "soft_pass": true,
+  "issues": [
+    {
+      "severity": "hard",
+      "code": "ungrounded",
+      "message": "ranked project 'crewAIInc/crewAI' citation not in allowed sources: https://www.bloomberg.com/news/articles/2026-08-11/uniper-plans-to-sell-properties-to-data-center-operators-video"
+    }
+  ]
+}

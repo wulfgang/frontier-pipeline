@@ -1,0 +1,9 @@
+# claude-code
+
+## Projects
+
+- [[projects/Graphify-Labs-graphify]]
+- [[projects/NousResearch-hermes-agent]]
+- [[projects/ruvnet-ruflo]]
+- [[projects/strukto-ai-mirage]]
+- [[projects/thedotmack-claude-mem]]
