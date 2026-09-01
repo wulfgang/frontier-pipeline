@@ -25,3 +25,4 @@
 - [[projects/flyteorg-flyte]]
 - [[projects/NirDiamant-GenAI_Agents]]
 - [[projects/firecrawl-firecrawl]]
+- [[projects/Lumiwealth-lumibot]]

@@ -12,3 +12,4 @@
 - [[projects/HKUDS-nanobot]]
 - [[projects/diegosouzapw-OmniRoute]]
 - [[projects/NirDiamant-GenAI_Agents]]
+- [[projects/ag2ai-ag2]]

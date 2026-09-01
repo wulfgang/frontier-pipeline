@@ -10,3 +10,5 @@
 - [[projects/ruvnet-ruflo]]
 - [[projects/google-adk-python]]
 - [[projects/NirDiamant-GenAI_Agents]]
+- [[projects/agentscope-ai-agentscope-java]]
+- [[projects/ag2ai-ag2]]

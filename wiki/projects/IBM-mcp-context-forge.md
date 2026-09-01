@@ -1,7 +1,7 @@
 ---
 repo_id: IBM/mcp-context-forge
 url: https://github.com/IBM/mcp-context-forge
-stars: 4396
+stars: 4400
 topics:
 - agents
 - ai
@@ -23,7 +23,7 @@ topics:
 - prompt-engineering
 - python
 - tools
-updated: '2026-08-31'
+updated: '2026-09-01'
 ---
 
 An AI Gateway, registry, and proxy that sits in front of any MCP, A2A, or REST/gRPC APIs, exposing a unified endpoint with centralized discovery, guardrails and management. Optimizes Agent & Tool calling, and supports plugins.

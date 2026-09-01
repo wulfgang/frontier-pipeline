@@ -1,7 +1,7 @@
 ---
 repo_id: NirDiamant/GenAI_Agents
 url: https://github.com/NirDiamant/GenAI_Agents
-stars: 24056
+stars: 24078
 topics:
 - agentic-ai
 - agents
@@ -22,7 +22,7 @@ topics:
 - python
 - rag
 - tutorials
-updated: '2026-08-31'
+updated: '2026-09-01'
 ---
 
 50+ tutorials and implementations for Generative AI Agent techniques, from basic conversational bots to complex multi-agent systems.

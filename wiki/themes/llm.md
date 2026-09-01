@@ -19,3 +19,5 @@
 - [[projects/NirDiamant-GenAI_Agents]]
 - [[projects/firecrawl-firecrawl]]
 - [[projects/Tencent-WeKnora]]
+- [[projects/agentscope-ai-agentscope-java]]
+- [[projects/ag2ai-ag2]]

@@ -9,3 +9,4 @@
 - [[projects/netease-youdao-LobsterAI]]
 - [[projects/google-adk-python]]
 - [[projects/Tencent-WeKnora]]
+- [[projects/agentscope-ai-agentscope-java]]

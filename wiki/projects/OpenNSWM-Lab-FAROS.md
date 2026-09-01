@@ -1,7 +1,7 @@
 ---
 repo_id: OpenNSWM-Lab/FAROS
 url: https://github.com/OpenNSWM-Lab/FAROS
-stars: 3030
+stars: 3032
 topics:
 - academic-research
 - academic-writing
@@ -23,7 +23,7 @@ topics:
 - scientific-discovery
 - scientific-workflow
 - workflow-orchestration
-updated: '2026-08-31'
+updated: '2026-09-01'
 ---
 
 A blueprint-driven AutoResearch runtime for orchestrating AI research workflows from idea generation and experiments to paper writing and peer review.

@@ -12,3 +12,5 @@
 - [[projects/google-adk-python]]
 - [[projects/flyteorg-flyte]]
 - [[projects/Tencent-WeKnora]]
+- [[projects/agentscope-ai-agentscope-java]]
+- [[projects/ag2ai-ag2]]

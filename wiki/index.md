@@ -44,3 +44,6 @@ Home for AI-agent project curation and Friday frontier reports.
 - [[projects/NirDiamant-GenAI_Agents]]
 - [[projects/firecrawl-firecrawl]]
 - [[projects/Tencent-WeKnora]]
+- [[projects/Lumiwealth-lumibot]]
+- [[projects/agentscope-ai-agentscope-java]]
+- [[projects/ag2ai-ag2]]

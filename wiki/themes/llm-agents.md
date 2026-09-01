@@ -8,3 +8,4 @@
 - [[projects/HKUDS-nanobot]]
 - [[projects/OpenNSWM-Lab-FAROS]]
 - [[projects/IBM-AssetOpsBench]]
+- [[projects/Lumiwealth-lumibot]]

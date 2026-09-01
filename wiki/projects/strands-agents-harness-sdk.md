@@ -1,7 +1,7 @@
 ---
 repo_id: strands-agents/harness-sdk
 url: https://github.com/strands-agents/harness-sdk
-stars: 7082
+stars: 7088
 topics:
 - agent-framework
 - agentic
@@ -23,7 +23,7 @@ topics:
 - sdk
 - strands-agents
 - typescript
-updated: '2026-08-31'
+updated: '2026-09-01'
 ---
 
 Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any model, any cloud.

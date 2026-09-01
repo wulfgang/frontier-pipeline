@@ -12,3 +12,5 @@
 - [[projects/HKUDS-nanobot]]
 - [[projects/flyteorg-flyte]]
 - [[projects/NirDiamant-GenAI_Agents]]
+- [[projects/Lumiwealth-lumibot]]
+- [[projects/ag2ai-ag2]]

@@ -10,3 +10,5 @@
 - [[projects/OpenNSWM-Lab-FAROS]]
 - [[projects/google-adk-python]]
 - [[projects/NirDiamant-GenAI_Agents]]
+- [[projects/Lumiwealth-lumibot]]
+- [[projects/ag2ai-ag2]]
