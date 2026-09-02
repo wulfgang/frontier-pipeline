@@ -1,6 +1,5 @@
-# dsh
+# cordis
 
 ## Projects
 
-- [[projects/strukto-ai-mirage]]
 - [[projects/deepseek-ai-deepseek-harness]]

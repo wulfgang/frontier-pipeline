@@ -12,3 +12,4 @@
 - [[projects/NirDiamant-GenAI_Agents]]
 - [[projects/Lumiwealth-lumibot]]
 - [[projects/ag2ai-ag2]]
+- [[projects/chaitanyagiri-munder-difflin]]

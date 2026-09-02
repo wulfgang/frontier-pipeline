@@ -10,3 +10,4 @@
 - [[projects/netease-youdao-LobsterAI]]
 - [[projects/spinabot-brigade]]
 - [[projects/NirDiamant-GenAI_Agents]]
+- [[projects/chaitanyagiri-munder-difflin]]

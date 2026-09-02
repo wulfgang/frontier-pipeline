@@ -1,6 +1,5 @@
-# harness-engineering
+# free
 
 ## Projects
 
-- [[projects/infiniflow-ragflow]]
 - [[projects/chaitanyagiri-munder-difflin]]

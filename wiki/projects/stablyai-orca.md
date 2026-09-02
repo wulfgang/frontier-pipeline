@@ -1,7 +1,7 @@
 ---
 repo_id: stablyai/orca
 url: https://github.com/stablyai/orca
-stars: 58786
+stars: 59632
 topics:
 - ade
 - agent-ide
@@ -21,7 +21,7 @@ topics:
 - terminal
 - worktrees
 - yc-backed
-updated: '2026-09-01'
+updated: '2026-09-02'
 ---
 
 Orca is the ADE for working with a fleet of parallel agents. Run any coding agent with your own subscription. Available on desktop, mobile and VPS.

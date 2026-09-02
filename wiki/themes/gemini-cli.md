@@ -1,6 +1,5 @@
-# harness-engineering
+# gemini-cli
 
 ## Projects
 
-- [[projects/infiniflow-ragflow]]
 - [[projects/chaitanyagiri-munder-difflin]]

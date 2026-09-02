@@ -1,7 +1,7 @@
 ---
 repo_id: hyperspaceai/agi
 url: https://github.com/hyperspaceai/agi
-stars: 2034
+stars: 2035
 topics:
 - agi
 - ai-agents
@@ -15,7 +15,7 @@ topics:
 - distributed-ai
 - llm
 - p2p
-updated: '2026-09-01'
+updated: '2026-09-02'
 ---
 
 The first distributed AGI system. Thousands of autonomous AI agents collaboratively train models, share experiments via P2P gossip, and push breakthroughs here. Fully peer-to-peer. Join from your browser or CLI.

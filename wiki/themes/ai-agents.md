@@ -26,3 +26,5 @@
 - [[projects/NirDiamant-GenAI_Agents]]
 - [[projects/firecrawl-firecrawl]]
 - [[projects/Lumiwealth-lumibot]]
+- [[projects/chaitanyagiri-munder-difflin]]
+- [[projects/deepseek-ai-deepseek-harness]]

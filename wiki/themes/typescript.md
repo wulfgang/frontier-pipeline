@@ -9,3 +9,4 @@
 - [[projects/langchain-ai-langchain]]
 - [[projects/ruvnet-ruflo]]
 - [[projects/strukto-ai-mirage]]
+- [[projects/chaitanyagiri-munder-difflin]]

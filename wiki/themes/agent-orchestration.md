@@ -1,6 +1,5 @@
-# harness-engineering
+# agent-orchestration
 
 ## Projects
 
-- [[projects/infiniflow-ragflow]]
 - [[projects/chaitanyagiri-munder-difflin]]
