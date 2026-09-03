@@ -1,6 +1,5 @@
-# mcp-server
+# gemini-api
 
 ## Projects
 
-- [[projects/ruvnet-ruflo]]
 - [[projects/google-gemini-gemini-cli]]

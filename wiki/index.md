@@ -49,3 +49,4 @@ Home for AI-agent project curation and Friday frontier reports.
 - [[projects/ag2ai-ag2]]
 - [[projects/chaitanyagiri-munder-difflin]]
 - [[projects/deepseek-ai-deepseek-harness]]
+- [[projects/google-gemini-gemini-cli]]
