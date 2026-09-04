@@ -29,3 +29,4 @@
 - [[projects/chaitanyagiri-munder-difflin]]
 - [[projects/deepseek-ai-deepseek-harness]]
 - [[projects/google-gemini-gemini-cli]]
+- [[projects/genspark-ai-genoffice]]

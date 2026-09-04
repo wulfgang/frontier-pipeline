@@ -10,3 +10,4 @@
 - [[projects/google-adk-python]]
 - [[projects/Tencent-WeKnora]]
 - [[projects/agentscope-ai-agentscope-java]]
+- [[projects/genspark-ai-genoffice]]

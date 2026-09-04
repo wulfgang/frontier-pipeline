@@ -1,7 +1,7 @@
 ---
 repo_id: code-yeongyu/oh-my-openagent
 url: https://github.com/code-yeongyu/oh-my-openagent
-stars: 68640
+stars: 68674
 topics:
 - ai
 - ai-agents
@@ -18,9 +18,9 @@ topics:
 - orchestration
 - tui
 - typescript
-updated: '2026-09-03'
+updated: '2026-09-04'
 ---
 
-omo/lazycodex: The coding agent for tokenmaxxers;the one and only agent harness for complex codebases. For your Codex, for your OpenCode
+OmO: Drop your tokens. Ultrawork. Done.
 
 [[themes/ai]] [[themes/ai-agents]] [[themes/anthropic]] [[themes/chatgpt]] [[themes/claude]] [[themes/claude-skills]] [[themes/codex]] [[themes/cursor]] [[themes/gemini]] [[themes/ide]] [[themes/openai]] [[themes/opencode]] [[themes/orchestration]] [[themes/tui]] [[themes/typescript]]

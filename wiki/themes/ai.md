@@ -28,3 +28,4 @@
 - [[projects/agentscope-ai-agentscope-java]]
 - [[projects/ag2ai-ag2]]
 - [[projects/google-gemini-gemini-cli]]
+- [[projects/genspark-ai-genoffice]]
