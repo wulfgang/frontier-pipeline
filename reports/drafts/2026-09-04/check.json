@@ -1,0 +1,11 @@
+{
+  "hard_pass": false,
+  "soft_pass": true,
+  "issues": [
+    {
+      "severity": "hard",
+      "code": "ungrounded",
+      "message": "ranked project 'NousResearch/hermes-agent.md' citation not in allowed sources: https://www.bloomberg.com/news/articles/2026-09-04/hiddenlayer-nabs-100m-as-enterprises-rush-to-secure-their-ai-deployments/"
+    }
+  ]
+}
