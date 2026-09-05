@@ -1,7 +1,7 @@
 ---
 repo_id: code-yeongyu/oh-my-openagent
 url: https://github.com/code-yeongyu/oh-my-openagent
-stars: 68674
+stars: 68709
 topics:
 - ai
 - ai-agents
@@ -18,7 +18,7 @@ topics:
 - orchestration
 - tui
 - typescript
-updated: '2026-09-04'
+updated: '2026-09-05'
 ---
 
 OmO: Drop your tokens. Ultrawork. Done.

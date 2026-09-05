@@ -1,7 +1,7 @@
 ---
 repo_id: strukto-ai/mirage
 url: https://github.com/strukto-ai/mirage
-stars: 3601
+stars: 3608
 topics:
 - agent-sandbox
 - agent-tools
@@ -18,7 +18,7 @@ topics:
 - vfs
 - virtual-filesystem
 - virtual-terminal
-updated: '2026-09-04'
+updated: '2026-09-05'
 ---
 
 The World's First Virtual Terminal for AI Agents

@@ -7,3 +7,4 @@
 - [[projects/NousResearch-hermes-agent]]
 - [[projects/langchain-ai-langchain]]
 - [[projects/spinabot-brigade]]
+- [[projects/asgeirtj-system_prompts_leaks]]

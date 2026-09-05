@@ -1,7 +1,7 @@
 ---
 repo_id: langchain-ai/langchain
 url: https://github.com/langchain-ai/langchain
-stars: 145622
+stars: 145678
 topics:
 - agents
 - ai
@@ -23,7 +23,7 @@ topics:
 - python
 - rag
 - typescript
-updated: '2026-09-04'
+updated: '2026-09-05'
 ---
 
 The agent engineering platform.

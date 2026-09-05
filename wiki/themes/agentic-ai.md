@@ -12,3 +12,4 @@
 - [[projects/NirDiamant-GenAI_Agents]]
 - [[projects/agentscope-ai-agentscope-java]]
 - [[projects/ag2ai-ag2]]
+- [[projects/shanraisshan-claude-code-best-practice]]

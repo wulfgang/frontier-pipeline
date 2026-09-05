@@ -1,7 +1,7 @@
 ---
 repo_id: NousResearch/hermes-agent
 url: https://github.com/NousResearch/hermes-agent
-stars: 241173
+stars: 241703
 topics:
 - ai
 - ai-agent
@@ -16,7 +16,7 @@ topics:
 - llm
 - nous-research
 - openai
-updated: '2026-09-04'
+updated: '2026-09-05'
 ---
 
 The agent that grows with you

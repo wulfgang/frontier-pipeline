@@ -21,3 +21,5 @@
 - [[projects/Tencent-WeKnora]]
 - [[projects/agentscope-ai-agentscope-java]]
 - [[projects/ag2ai-ag2]]
+- [[projects/asgeirtj-system_prompts_leaks]]
+- [[projects/browser-use-browser-use]]

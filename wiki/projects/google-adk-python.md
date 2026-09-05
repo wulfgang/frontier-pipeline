@@ -1,7 +1,7 @@
 ---
 repo_id: google/adk-python
 url: https://github.com/google/adk-python
-stars: 21405
+stars: 21417
 topics:
 - agent
 - agentic
@@ -19,7 +19,7 @@ topics:
 - multi-agent-systems
 - multi-agents
 - multi-agents-collaboration
-updated: '2026-09-04'
+updated: '2026-09-05'
 ---
 
 An open-source, code-first Python toolkit for building, evaluating, and deploying sophisticated AI agents with flexibility and control.

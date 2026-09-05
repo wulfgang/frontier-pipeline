@@ -29,3 +29,5 @@
 - [[projects/ag2ai-ag2]]
 - [[projects/google-gemini-gemini-cli]]
 - [[projects/genspark-ai-genoffice]]
+- [[projects/asgeirtj-system_prompts_leaks]]
+- [[projects/shanraisshan-claude-code-best-practice]]

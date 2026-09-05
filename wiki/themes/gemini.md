@@ -7,3 +7,4 @@
 - [[projects/langchain-ai-langchain]]
 - [[projects/diegosouzapw-OmniRoute]]
 - [[projects/google-gemini-gemini-cli]]
+- [[projects/asgeirtj-system_prompts_leaks]]

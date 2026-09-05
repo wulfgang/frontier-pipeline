@@ -1,7 +1,7 @@
 ---
 repo_id: Tencent/WeKnora
 url: https://github.com/Tencent/WeKnora
-stars: 21321
+stars: 21387
 topics:
 - agent
 - agentic
@@ -23,7 +23,7 @@ topics:
 - semantic-search
 - vector-search
 - wiki
-updated: '2026-09-04'
+updated: '2026-09-05'
 ---
 
 Open-source LLM knowledge platform: turn raw documents into a queryable RAG, an autonomous reasoning agent, and a self-maintaining Wiki.

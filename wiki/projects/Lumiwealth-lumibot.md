@@ -1,7 +1,7 @@
 ---
 repo_id: Lumiwealth/lumibot
 url: https://github.com/Lumiwealth/lumibot
-stars: 2032
+stars: 2039
 topics:
 - ai-agents
 - algorithmic-trading
@@ -23,7 +23,7 @@ topics:
 - stocks
 - technical-analysis
 - trading-bot
-updated: '2026-09-02'
+updated: '2026-09-05'
 ---
 
 Backtestable AI trading agents and Python algorithmic trading strategies for stocks, options, crypto, futures, forex, SEC filings, FRED macro data, and real brokers.
