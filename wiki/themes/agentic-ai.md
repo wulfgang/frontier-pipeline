@@ -13,3 +13,4 @@
 - [[projects/agentscope-ai-agentscope-java]]
 - [[projects/ag2ai-ag2]]
 - [[projects/shanraisshan-claude-code-best-practice]]
+- [[projects/feder-cr-AIHawk]]

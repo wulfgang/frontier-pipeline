@@ -22,7 +22,7 @@ topics:
 - serverless
 - sql
 - tidb
-updated: '2026-09-05'
+updated: '2026-09-06'
 ---
 
 TiDB is built for agentic workloads that grow unpredictably, with ACID guarantees and native support for transactions, analytics, and vector search. No data silos. No noisy neighbors. No infrastructure ceiling.

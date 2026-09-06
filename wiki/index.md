@@ -54,3 +54,4 @@ Home for AI-agent project curation and Friday frontier reports.
 - [[projects/asgeirtj-system_prompts_leaks]]
 - [[projects/browser-use-browser-use]]
 - [[projects/shanraisshan-claude-code-best-practice]]
+- [[projects/feder-cr-AIHawk]]

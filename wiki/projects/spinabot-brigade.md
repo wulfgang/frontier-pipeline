@@ -1,7 +1,7 @@
 ---
 repo_id: spinabot/brigade
 url: https://github.com/spinabot/brigade
-stars: 3247
+stars: 3413
 topics:
 - agent-runtime
 - ai
@@ -23,7 +23,7 @@ topics:
 - pride-of-agents
 - self-improving-ai
 - spinabot
-updated: '2026-08-31'
+updated: '2026-09-06'
 ---
 
 Brigade — Your personal intelligence, built enterprise-grade

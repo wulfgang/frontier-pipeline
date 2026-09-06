@@ -1,7 +1,7 @@
 ---
 repo_id: google-gemini/gemini-cli
 url: https://github.com/google-gemini/gemini-cli
-stars: 106790
+stars: 106829
 topics:
 - ai
 - ai-agents
@@ -10,7 +10,7 @@ topics:
 - gemini-api
 - mcp-client
 - mcp-server
-updated: '2026-09-03'
+updated: '2026-09-06'
 ---
 
 An open-source AI agent that brings the power of Gemini directly into your terminal.

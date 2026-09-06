@@ -7,3 +7,4 @@
 - [[projects/netease-youdao-LobsterAI]]
 - [[projects/HKUDS-nanobot]]
 - [[projects/genspark-ai-genoffice]]
+- [[projects/feder-cr-AIHawk]]

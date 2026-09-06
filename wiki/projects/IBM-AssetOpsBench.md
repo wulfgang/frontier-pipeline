@@ -1,7 +1,7 @@
 ---
 repo_id: IBM/AssetOpsBench
 url: https://github.com/IBM/AssetOpsBench
-stars: 2249
+stars: 2267
 topics:
 - ai-for-physical-assets
 - condition-based-maintenance
@@ -11,7 +11,7 @@ topics:
 - model-context-protocol
 - predictive-maintenance
 - time-series-forecasting
-updated: '2026-08-31'
+updated: '2026-09-06'
 ---
 
 AssetOpsBench - Industry 4.0: A unified benchmark and framework for building, orchestrating, and evaluating domain-specific AI agents for Industry 4.0 asset operations and maintenance, with 460+ scenarios, 5 specialist agents (IoT, FMSR, TSFM, Work Order,...), and multi-agent orchestration blueprints (MetaAgent, AgentHive) over MCP.

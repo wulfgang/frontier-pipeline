@@ -1,7 +1,7 @@
 ---
 repo_id: zeroclaw-labs/zeroclaw
 url: https://github.com/zeroclaw-labs/zeroclaw
-stars: 32732
+stars: 32734
 topics:
 - agent
 - agentic
@@ -11,7 +11,7 @@ topics:
 - openclaw
 - os
 - zeroclaw
-updated: '2026-09-05'
+updated: '2026-09-06'
 ---
 
 Fast, small, and fully autonomous AI personal assistant infrastructure, any OS, any platform — deploy anywhere, swap anything 🦀
