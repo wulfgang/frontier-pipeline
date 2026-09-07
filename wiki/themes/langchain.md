@@ -6,3 +6,4 @@
 - [[projects/langchain-ai-langchain]]
 - [[projects/strukto-ai-mirage]]
 - [[projects/NirDiamant-GenAI_Agents]]
+- [[projects/the-open-agent-openagent]]

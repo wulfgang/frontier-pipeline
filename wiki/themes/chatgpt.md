@@ -8,3 +8,4 @@
 - [[projects/langchain-ai-langchain]]
 - [[projects/spinabot-brigade]]
 - [[projects/asgeirtj-system_prompts_leaks]]
+- [[projects/the-open-agent-openagent]]

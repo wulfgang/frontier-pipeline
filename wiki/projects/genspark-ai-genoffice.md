@@ -1,7 +1,7 @@
 ---
 repo_id: genspark-ai/genoffice
 url: https://github.com/genspark-ai/genoffice
-stars: 5590
+stars: 5811
 topics:
 - agent
 - agentic
@@ -23,7 +23,7 @@ topics:
 - spreadsheet
 - word-processor
 - xlsx
-updated: '2026-09-06'
+updated: '2026-09-07'
 ---
 
 Free, open-source alternative to Microsoft Office with built-in AI agents — Word (.docx), Excel (.xlsx), PowerPoint (.pptx), PDF and Markdown editing for macOS, Windows & Linux.

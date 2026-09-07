@@ -7,3 +7,4 @@
 - [[projects/ruvnet-ruflo]]
 - [[projects/agentscope-ai-agentscope-java]]
 - [[projects/chaitanyagiri-munder-difflin]]
+- [[projects/the-open-agent-openagent]]

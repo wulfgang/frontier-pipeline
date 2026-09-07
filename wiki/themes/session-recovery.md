@@ -1,6 +1,5 @@
-# agent-skills
+# session-recovery
 
 ## Projects
 
-- [[projects/nexu-io-open-design]]
 - [[projects/OthmanAdi-planning-with-files]]

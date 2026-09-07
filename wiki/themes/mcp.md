@@ -13,3 +13,5 @@
 - [[projects/diegosouzapw-OmniRoute]]
 - [[projects/NirDiamant-GenAI_Agents]]
 - [[projects/ag2ai-ag2]]
+- [[projects/affaan-m-ECC]]
+- [[projects/the-open-agent-openagent]]

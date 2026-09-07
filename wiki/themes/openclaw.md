@@ -8,3 +8,4 @@
 - [[projects/netease-youdao-LobsterAI]]
 - [[projects/HKUDS-nanobot]]
 - [[projects/spinabot-brigade]]
+- [[projects/the-open-agent-openagent]]

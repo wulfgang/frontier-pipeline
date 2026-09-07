@@ -33,3 +33,4 @@
 - [[projects/asgeirtj-system_prompts_leaks]]
 - [[projects/browser-use-browser-use]]
 - [[projects/shanraisshan-claude-code-best-practice]]
+- [[projects/affaan-m-ECC]]

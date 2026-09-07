@@ -1,6 +1,5 @@
-# knowledge-base
+# openagent
 
 ## Projects
 
-- [[projects/Tencent-WeKnora]]
 - [[projects/the-open-agent-openagent]]

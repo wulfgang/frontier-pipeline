@@ -7,3 +7,4 @@
 - [[projects/ruvnet-ruflo]]
 - [[projects/google-adk-python]]
 - [[projects/NirDiamant-GenAI_Agents]]
+- [[projects/OthmanAdi-planning-with-files]]

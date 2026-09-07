@@ -9,3 +9,4 @@
 - [[projects/OpenNSWM-Lab-FAROS]]
 - [[projects/IBM-AssetOpsBench]]
 - [[projects/Lumiwealth-lumibot]]
+- [[projects/OthmanAdi-planning-with-files]]

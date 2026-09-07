@@ -10,3 +10,4 @@
 - [[projects/diegosouzapw-OmniRoute]]
 - [[projects/asgeirtj-system_prompts_leaks]]
 - [[projects/shanraisshan-claude-code-best-practice]]
+- [[projects/affaan-m-ECC]]

@@ -1,7 +1,7 @@
 ---
 repo_id: Fosowl/agenticSeek
 url: https://github.com/Fosowl/agenticSeek
-stars: 26785
+stars: 27169
 topics:
 - agentic-ai
 - agents
@@ -11,7 +11,7 @@ topics:
 - llm
 - llm-agents
 - voice-assistant
-updated: '2026-08-11'
+updated: '2026-09-07'
 ---
 
 Fully Local Manus AI. No APIs, No $200 monthly bills. Enjoy an autonomous agent that thinks, browses the web, and code for the sole cost of electricity.

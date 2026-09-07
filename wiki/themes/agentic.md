@@ -15,3 +15,4 @@
 - [[projects/agentscope-ai-agentscope-java]]
 - [[projects/ag2ai-ag2]]
 - [[projects/genspark-ai-genoffice]]
+- [[projects/the-open-agent-openagent]]

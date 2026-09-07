@@ -11,3 +11,4 @@
 - [[projects/thedotmack-claude-mem]]
 - [[projects/NirDiamant-GenAI_Agents]]
 - [[projects/Tencent-WeKnora]]
+- [[projects/the-open-agent-openagent]]

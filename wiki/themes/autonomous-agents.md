@@ -12,3 +12,4 @@
 - [[projects/NirDiamant-GenAI_Agents]]
 - [[projects/chaitanyagiri-munder-difflin]]
 - [[projects/feder-cr-AIHawk]]
+- [[projects/OthmanAdi-planning-with-files]]

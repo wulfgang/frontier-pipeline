@@ -23,3 +23,5 @@
 - [[projects/ag2ai-ag2]]
 - [[projects/asgeirtj-system_prompts_leaks]]
 - [[projects/browser-use-browser-use]]
+- [[projects/affaan-m-ECC]]
+- [[projects/the-open-agent-openagent]]

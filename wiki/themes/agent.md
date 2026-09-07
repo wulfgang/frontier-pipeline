@@ -11,3 +11,4 @@
 - [[projects/Tencent-WeKnora]]
 - [[projects/agentscope-ai-agentscope-java]]
 - [[projects/genspark-ai-genoffice]]
+- [[projects/the-open-agent-openagent]]

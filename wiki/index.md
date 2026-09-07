@@ -55,3 +55,6 @@ Home for AI-agent project curation and Friday frontier reports.
 - [[projects/browser-use-browser-use]]
 - [[projects/shanraisshan-claude-code-best-practice]]
 - [[projects/feder-cr-AIHawk]]
+- [[projects/affaan-m-ECC]]
+- [[projects/OthmanAdi-planning-with-files]]
+- [[projects/the-open-agent-openagent]]

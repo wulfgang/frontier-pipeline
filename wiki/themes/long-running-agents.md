@@ -1,6 +1,5 @@
-# agent-skills
+# long-running-agents
 
 ## Projects
 
-- [[projects/nexu-io-open-design]]
 - [[projects/OthmanAdi-planning-with-files]]
