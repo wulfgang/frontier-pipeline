@@ -1,7 +1,7 @@
 ---
 repo_id: shanraisshan/claude-code-best-practice
 url: https://github.com/shanraisshan/claude-code-best-practice
-stars: 65652
+stars: 65755
 topics:
 - agentic-ai
 - agentic-coding
@@ -23,7 +23,7 @@ topics:
 - pakistan
 - pakistani-developer
 - vibe-coding
-updated: '2026-09-06'
+updated: '2026-09-08'
 ---
 
 from vibe coding to agentic engineering - practice makes claude perfect

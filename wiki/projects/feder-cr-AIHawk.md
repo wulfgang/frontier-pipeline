@@ -1,7 +1,7 @@
 ---
 repo_id: feder-cr/AIHawk
 url: https://github.com/feder-cr/AIHawk
-stars: 30316
+stars: 30321
 topics:
 - agentic-ai
 - ai-agent
@@ -23,7 +23,7 @@ topics:
 - web-agent
 - web-automation
 - web-research
-updated: '2026-09-06'
+updated: '2026-09-08'
 ---
 
 Open-source AI browser agent for web automation: a web browsing agent and computer-use agent in plain English. Browser MCP for Claude Code and Gemini CLI.

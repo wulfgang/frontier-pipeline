@@ -1,7 +1,7 @@
 ---
 repo_id: netease-youdao/LobsterAI
 url: https://github.com/netease-youdao/LobsterAI
-stars: 5984
+stars: 5995
 topics:
 - agent
 - ai-agent
@@ -20,7 +20,7 @@ topics:
 - productivity
 - react
 - tyepscript
-updated: '2026-09-07'
+updated: '2026-09-08'
 ---
 
 Open-source, desktop-grade AI agent that gets real work done — data analysis, slides, docs, video & web research. Built on OpenClaw; runs tools on your real desktop and takes commands from your phone via WeChat, Feishu, DingTalk & Telegram.

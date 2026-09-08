@@ -1,7 +1,7 @@
 ---
 repo_id: code-yeongyu/oh-my-openagent
 url: https://github.com/code-yeongyu/oh-my-openagent
-stars: 68775
+stars: 68808
 topics:
 - ai
 - ai-agents
@@ -18,9 +18,9 @@ topics:
 - orchestration
 - tui
 - typescript
-updated: '2026-09-07'
+updated: '2026-09-08'
 ---
 
-OmO: Drop your tokens. Ultrawork. Done.
+OmO: Just type "mass ulw" keyword with your prompt. Now you are the master of graph engineering.
 
 [[themes/ai]] [[themes/ai-agents]] [[themes/anthropic]] [[themes/chatgpt]] [[themes/claude]] [[themes/claude-skills]] [[themes/codex]] [[themes/cursor]] [[themes/gemini]] [[themes/ide]] [[themes/openai]] [[themes/opencode]] [[themes/orchestration]] [[themes/tui]] [[themes/typescript]]
