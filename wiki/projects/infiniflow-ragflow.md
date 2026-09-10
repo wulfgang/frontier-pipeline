@@ -1,7 +1,7 @@
 ---
 repo_id: infiniflow/ragflow
 url: https://github.com/infiniflow/ragflow
-stars: 90368
+stars: 90435
 topics:
 - agent-harness
 - agentic-ai
@@ -17,7 +17,7 @@ topics:
 - llm-apps
 - rag
 - retrieval-augmented-generation
-updated: '2026-09-09'
+updated: '2026-09-10'
 ---
 
 RAGFlow is a leading open-source Retrieval-Augmented Generation (RAG) engine that fuses cutting-edge RAG with Agent capabilities to create a superior context layer for LLMs

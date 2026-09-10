@@ -1,6 +1,5 @@
-# ai-agents-framework
+# semantic-kernel
 
 ## Projects
 
-- [[projects/ag2ai-ag2]]
 - [[projects/microsoft-ai-agents-for-beginners]]

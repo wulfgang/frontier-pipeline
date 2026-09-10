@@ -9,3 +9,4 @@
 - [[projects/NirDiamant-GenAI_Agents]]
 - [[projects/Tencent-WeKnora]]
 - [[projects/asgeirtj-system_prompts_leaks]]
+- [[projects/microsoft-ai-agents-for-beginners]]

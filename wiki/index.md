@@ -58,3 +58,4 @@ Home for AI-agent project curation and Friday frontier reports.
 - [[projects/affaan-m-ECC]]
 - [[projects/OthmanAdi-planning-with-files]]
 - [[projects/the-open-agent-openagent]]
+- [[projects/microsoft-ai-agents-for-beginners]]

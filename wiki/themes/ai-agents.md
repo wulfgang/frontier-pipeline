@@ -34,3 +34,4 @@
 - [[projects/browser-use-browser-use]]
 - [[projects/shanraisshan-claude-code-best-practice]]
 - [[projects/affaan-m-ECC]]
+- [[projects/microsoft-ai-agents-for-beginners]]

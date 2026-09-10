@@ -1,7 +1,7 @@
 ---
 repo_id: thedotmack/claude-mem
 url: https://github.com/thedotmack/claude-mem
-stars: 93311
+stars: 93603
 topics:
 - ai
 - ai-agents
@@ -23,7 +23,7 @@ topics:
 - rag
 - sqlite
 - supermemory
-updated: '2026-09-06'
+updated: '2026-09-10'
 ---
 
 Persistent Context Across Sessions for Every Agent –  Captures everything your agent does during sessions, compresses it with AI, and injects relevant context back into future sessions. Works with Claude Code, OpenClaw, Codex, Gemini, Hermes, Copilot, OpenCode + More

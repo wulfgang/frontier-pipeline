@@ -1,6 +1,5 @@
-# ai-agents-framework
+# agentic-rag
 
 ## Projects
 
-- [[projects/ag2ai-ag2]]
 - [[projects/microsoft-ai-agents-for-beginners]]
