@@ -1,7 +1,7 @@
 ---
 repo_id: ag2ai/ag2
 url: https://github.com/ag2ai/ag2
-stars: 4913
+stars: 4916
 topics:
 - a2a
 - ag2
@@ -19,7 +19,7 @@ topics:
 - multi-agent-system
 - open-source
 - python
-updated: '2026-09-08'
+updated: '2026-09-11'
 ---
 
 AG2 (formerly AutoGen): The Open-Source AgentOS.Join us at: https://discord.gg/sNGSwQME3x
