@@ -10,3 +10,4 @@
 - [[projects/IBM-AssetOpsBench]]
 - [[projects/Lumiwealth-lumibot]]
 - [[projects/OthmanAdi-planning-with-files]]
+- [[projects/Mirix-AI-MIRIX]]

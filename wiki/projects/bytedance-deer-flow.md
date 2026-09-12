@@ -1,7 +1,7 @@
 ---
 repo_id: bytedance/deer-flow
 url: https://github.com/bytedance/deer-flow
-stars: 82270
+stars: 82309
 topics:
 - agent
 - agentic
@@ -21,7 +21,7 @@ topics:
 - python
 - superagent
 - typescript
-updated: '2026-09-11'
+updated: '2026-09-12'
 ---
 
 An open-source long-horizon SuperAgent harness that researches, codes, and creates. With the help of sandboxes, memories, tools, skill, subagents and message gateway, it handles different levels of tasks that could take minutes to hours.

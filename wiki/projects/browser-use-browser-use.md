@@ -1,7 +1,7 @@
 ---
 repo_id: browser-use/browser-use
 url: https://github.com/browser-use/browser-use
-stars: 112338
+stars: 114294
 topics:
 - ai-agents
 - ai-tools
@@ -10,9 +10,9 @@ topics:
 - llm
 - playwright
 - python
-updated: '2026-09-05'
+updated: '2026-09-12'
 ---
 
-🌐 Make websites accessible for AI agents. Automate tasks online with ease.
+Agents that use the browser.
 
 [[themes/ai-agents]] [[themes/ai-tools]] [[themes/browser-automation]] [[themes/browser-use]] [[themes/llm]] [[themes/playwright]] [[themes/python]]
