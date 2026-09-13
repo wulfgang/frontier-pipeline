@@ -25,3 +25,4 @@
 - [[projects/browser-use-browser-use]]
 - [[projects/affaan-m-ECC]]
 - [[projects/the-open-agent-openagent]]
+- [[projects/WenyuChiou-awesome-agentic-ai-zh]]

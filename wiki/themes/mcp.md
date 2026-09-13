@@ -15,3 +15,4 @@
 - [[projects/ag2ai-ag2]]
 - [[projects/affaan-m-ECC]]
 - [[projects/the-open-agent-openagent]]
+- [[projects/WenyuChiou-awesome-agentic-ai-zh]]

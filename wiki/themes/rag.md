@@ -12,3 +12,4 @@
 - [[projects/NirDiamant-GenAI_Agents]]
 - [[projects/Tencent-WeKnora]]
 - [[projects/the-open-agent-openagent]]
+- [[projects/WenyuChiou-awesome-agentic-ai-zh]]

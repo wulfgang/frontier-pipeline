@@ -6,3 +6,4 @@
 - [[projects/HKUDS-nanobot]]
 - [[projects/IBM-AssetOpsBench]]
 - [[projects/the-open-agent-openagent]]
+- [[projects/WenyuChiou-awesome-agentic-ai-zh]]

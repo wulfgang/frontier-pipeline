@@ -4,3 +4,4 @@
 
 - [[projects/IBM-mcp-context-forge]]
 - [[projects/asgeirtj-system_prompts_leaks]]
+- [[projects/WenyuChiou-awesome-agentic-ai-zh]]

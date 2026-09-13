@@ -8,3 +8,4 @@
 - [[projects/HKUDS-nanobot]]
 - [[projects/genspark-ai-genoffice]]
 - [[projects/feder-cr-AIHawk]]
+- [[projects/WenyuChiou-awesome-agentic-ai-zh]]

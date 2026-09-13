@@ -14,3 +14,4 @@
 - [[projects/shanraisshan-claude-code-best-practice]]
 - [[projects/affaan-m-ECC]]
 - [[projects/OthmanAdi-planning-with-files]]
+- [[projects/WenyuChiou-awesome-agentic-ai-zh]]

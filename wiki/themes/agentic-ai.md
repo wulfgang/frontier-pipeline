@@ -16,3 +16,4 @@
 - [[projects/feder-cr-AIHawk]]
 - [[projects/the-open-agent-openagent]]
 - [[projects/microsoft-ai-agents-for-beginners]]
+- [[projects/WenyuChiou-awesome-agentic-ai-zh]]
