@@ -1,7 +1,7 @@
 ---
 repo_id: HKUDS/nanobot
 url: https://github.com/HKUDS/nanobot
-stars: 48075
+stars: 48145
 topics:
 - agent-framework
 - ai-agent
@@ -23,7 +23,7 @@ topics:
 - telegram-bot-ai-assistant
 - webui
 - workflow-automation
-updated: '2026-09-13'
+updated: '2026-09-14'
 ---
 
 Ultra-lightweight, open-source, self-hosted personal AI agent framework in Python with WebUI, tools, memory, MCP, multi-agent workflows, automation, and chat apps

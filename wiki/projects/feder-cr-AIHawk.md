@@ -1,7 +1,7 @@
 ---
 repo_id: feder-cr/AIHawk
 url: https://github.com/feder-cr/AIHawk
-stars: 30659
+stars: 31444
 topics:
 - agentic-ai
 - ai-agent
@@ -9,6 +9,7 @@ topics:
 - autonomous-agents
 - browser
 - browser-agent
+- claude-code-plugin
 - computer-use
 - gemini-cli-extension
 - job-hunting
@@ -16,16 +17,15 @@ topics:
 - lead-generation
 - llm-agent
 - market-research
-- personal-assistant
 - price-monitoring
 - productivity
 - task-automation
 - web-agent
 - web-automation
 - web-research
-updated: '2026-09-13'
+updated: '2026-09-14'
 ---
 
-Open-source AI browser agent for web automation, undetected by anti-bot systems: a web browsing agent on a stealth Firefox that is not flagged as a bot, not blocked, and does not trigger captchas. Plain-English tasks, computer-use agent, browser MCP for Claude Code and Gemini CLI.
+Anti detect browser and web browsing agent: an open-source MCP server for undetected browsing, AI web scraping and computer use agents. No captchas.
 
-[[themes/agentic-ai]] [[themes/ai-agent]] [[themes/ai-automation]] [[themes/autonomous-agents]] [[themes/browser]] [[themes/browser-agent]] [[themes/computer-use]] [[themes/gemini-cli-extension]] [[themes/job-hunting]] [[themes/job-search]] [[themes/lead-generation]] [[themes/llm-agent]] [[themes/market-research]] [[themes/personal-assistant]] [[themes/price-monitoring]] [[themes/productivity]] [[themes/task-automation]] [[themes/web-agent]] [[themes/web-automation]] [[themes/web-research]]
+[[themes/agentic-ai]] [[themes/ai-agent]] [[themes/ai-automation]] [[themes/autonomous-agents]] [[themes/browser]] [[themes/browser-agent]] [[themes/claude-code-plugin]] [[themes/computer-use]] [[themes/gemini-cli-extension]] [[themes/job-hunting]] [[themes/job-search]] [[themes/lead-generation]] [[themes/llm-agent]] [[themes/market-research]] [[themes/price-monitoring]] [[themes/productivity]] [[themes/task-automation]] [[themes/web-agent]] [[themes/web-automation]] [[themes/web-research]]

@@ -3,3 +3,4 @@
 ## Projects
 
 - [[projects/thedotmack-claude-mem]]
+- [[projects/feder-cr-AIHawk]]

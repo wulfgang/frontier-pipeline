@@ -1,7 +1,7 @@
 ---
 repo_id: ruvnet/ruflo
 url: https://github.com/ruvnet/ruflo
-stars: 72267
+stars: 72395
 topics:
 - agentic-ai
 - agentic-framework
@@ -23,7 +23,7 @@ topics:
 - swarm
 - swarm-intelligence
 - typescript
-updated: '2026-09-13'
+updated: '2026-09-14'
 ---
 
 🌊 The original agent harness. Deploy intelligent multi-player swarms, coordinate autonomous workflows, and build conversational AI systems. Features adaptive memory, self-learning intelligence, federation, vector RAG integration, and native Claude Code / Codex / Hermes and many more Integrated
