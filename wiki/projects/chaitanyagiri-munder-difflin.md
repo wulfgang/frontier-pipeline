@@ -1,7 +1,7 @@
 ---
 repo_id: chaitanyagiri/munder-difflin
 url: https://github.com/chaitanyagiri/munder-difflin
-stars: 7158
+stars: 7313
 topics:
 - agent-orchestration
 - agents
@@ -21,7 +21,7 @@ topics:
 - opencode
 - orchestration
 - typescript
-updated: '2026-09-15'
+updated: '2026-09-16'
 ---
 
 A local multi-agent harness that works with your existing Claude Code, Codex subscriptions, allows you to run an office of agents
