@@ -1,7 +1,7 @@
 ---
 repo_id: code-yeongyu/oh-my-openagent
 url: https://github.com/code-yeongyu/oh-my-openagent
-stars: 69092
+stars: 69136
 topics:
 - ai
 - ai-agents
@@ -18,7 +18,7 @@ topics:
 - orchestration
 - tui
 - typescript
-updated: '2026-09-16'
+updated: '2026-09-17'
 ---
 
 OmO: Just type "mass ulw" keyword with your prompt. Now you are the master of graph engineering.
