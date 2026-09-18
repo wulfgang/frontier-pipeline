@@ -36,3 +36,4 @@
 - [[projects/affaan-m-ECC]]
 - [[projects/microsoft-ai-agents-for-beginners]]
 - [[projects/WenyuChiou-awesome-agentic-ai-zh]]
+- [[projects/ComposioHQ-awesome-claude-skills]]

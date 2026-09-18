@@ -1,6 +1,5 @@
-# gemini-cli
+# openai-codex
 
 ## Projects
 
-- [[projects/chaitanyagiri-munder-difflin]]
 - [[projects/ComposioHQ-awesome-claude-skills]]

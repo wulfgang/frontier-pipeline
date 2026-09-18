@@ -1,7 +1,7 @@
 ---
 repo_id: elizaOS/eliza
 url: https://github.com/elizaOS/eliza
-stars: 19343
+stars: 19359
 topics:
 - agent
 - agentic
@@ -18,7 +18,7 @@ topics:
 - slack
 - swarm
 - telegram
-updated: '2026-09-16'
+updated: '2026-09-18'
 ---
 
 Open source agentic operating system

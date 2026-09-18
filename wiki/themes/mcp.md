@@ -16,3 +16,4 @@
 - [[projects/affaan-m-ECC]]
 - [[projects/the-open-agent-openagent]]
 - [[projects/WenyuChiou-awesome-agentic-ai-zh]]
+- [[projects/ComposioHQ-awesome-claude-skills]]

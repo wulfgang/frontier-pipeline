@@ -1,6 +1,5 @@
-# gemini-cli
+# skill
 
 ## Projects
 
-- [[projects/chaitanyagiri-munder-difflin]]
 - [[projects/ComposioHQ-awesome-claude-skills]]

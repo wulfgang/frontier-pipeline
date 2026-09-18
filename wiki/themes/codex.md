@@ -12,3 +12,4 @@
 - [[projects/chaitanyagiri-munder-difflin]]
 - [[projects/asgeirtj-system_prompts_leaks]]
 - [[projects/OthmanAdi-planning-with-files]]
+- [[projects/ComposioHQ-awesome-claude-skills]]

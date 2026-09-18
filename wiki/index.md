@@ -62,3 +62,4 @@ Home for AI-agent project curation and Friday frontier reports.
 - [[projects/Mirix-AI-MIRIX]]
 - [[projects/WenyuChiou-awesome-agentic-ai-zh]]
 - [[projects/fathah-hermes-desktop]]
+- [[projects/ComposioHQ-awesome-claude-skills]]

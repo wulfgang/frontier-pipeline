@@ -15,3 +15,4 @@
 - [[projects/affaan-m-ECC]]
 - [[projects/OthmanAdi-planning-with-files]]
 - [[projects/WenyuChiou-awesome-agentic-ai-zh]]
+- [[projects/ComposioHQ-awesome-claude-skills]]
