@@ -1,7 +1,7 @@
 ---
 repo_id: agentscope-ai/agentscope-java
 url: https://github.com/agentscope-ai/agentscope-java
-stars: 5682
+stars: 5690
 topics:
 - adk
 - agent
@@ -12,7 +12,7 @@ topics:
 - ai
 - harness
 - llm
-updated: '2026-09-18'
+updated: '2026-09-19'
 ---
 
 Build distributed, production-grade, long-running agents.

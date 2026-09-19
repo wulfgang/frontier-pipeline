@@ -1,7 +1,7 @@
 ---
 repo_id: microsoft/ai-agents-for-beginners
 url: https://github.com/microsoft/ai-agents-for-beginners
-stars: 74336
+stars: 75121
 topics:
 - agentic-ai
 - agentic-framework
@@ -14,7 +14,7 @@ topics:
 - generative-ai
 - microsoft-foundry
 - semantic-kernel
-updated: '2026-09-10'
+updated: '2026-09-19'
 ---
 
 18 Lessons to Get Started Building AI Agents

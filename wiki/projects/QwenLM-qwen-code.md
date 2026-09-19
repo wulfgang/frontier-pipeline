@@ -1,7 +1,7 @@
 ---
 repo_id: QwenLM/qwen-code
 url: https://github.com/QwenLM/qwen-code
-stars: 27949
+stars: 27984
 topics:
 - agentic
 - ai
@@ -15,7 +15,7 @@ topics:
 - qwen
 - terminal
 - typescript
-updated: '2026-09-18'
+updated: '2026-09-19'
 ---
 
 An open-source AI coding agent that lives in your terminal.
