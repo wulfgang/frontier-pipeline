@@ -12,3 +12,4 @@
 - [[projects/OthmanAdi-planning-with-files]]
 - [[projects/Mirix-AI-MIRIX]]
 - [[projects/WenyuChiou-awesome-agentic-ai-zh]]
+- [[projects/camel-ai-oasis]]

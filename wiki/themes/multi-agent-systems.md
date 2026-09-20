@@ -9,3 +9,4 @@
 - [[projects/NirDiamant-GenAI_Agents]]
 - [[projects/OthmanAdi-planning-with-files]]
 - [[projects/WenyuChiou-awesome-agentic-ai-zh]]
+- [[projects/camel-ai-oasis]]
