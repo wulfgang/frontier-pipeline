@@ -1,6 +1,5 @@
-# scientific-discovery
+# research-agents
 
 ## Projects
 
-- [[projects/OpenNSWM-Lab-FAROS]]
 - [[projects/webfuse-com-awesome-autoresearch]]

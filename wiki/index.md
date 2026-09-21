@@ -64,3 +64,4 @@ Home for AI-agent project curation and Friday frontier reports.
 - [[projects/fathah-hermes-desktop]]
 - [[projects/ComposioHQ-awesome-claude-skills]]
 - [[projects/camel-ai-oasis]]
+- [[projects/webfuse-com-awesome-autoresearch]]

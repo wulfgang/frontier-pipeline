@@ -37,3 +37,4 @@
 - [[projects/microsoft-ai-agents-for-beginners]]
 - [[projects/WenyuChiou-awesome-agentic-ai-zh]]
 - [[projects/ComposioHQ-awesome-claude-skills]]
+- [[projects/webfuse-com-awesome-autoresearch]]

@@ -14,3 +14,4 @@
 - [[projects/feder-cr-AIHawk]]
 - [[projects/OthmanAdi-planning-with-files]]
 - [[projects/fathah-hermes-desktop]]
+- [[projects/webfuse-com-awesome-autoresearch]]

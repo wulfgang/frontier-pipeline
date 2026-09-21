@@ -13,3 +13,4 @@
 - [[projects/Mirix-AI-MIRIX]]
 - [[projects/WenyuChiou-awesome-agentic-ai-zh]]
 - [[projects/camel-ai-oasis]]
+- [[projects/webfuse-com-awesome-autoresearch]]

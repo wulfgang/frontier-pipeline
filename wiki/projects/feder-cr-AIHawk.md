@@ -1,7 +1,7 @@
 ---
 repo_id: feder-cr/AIHawk
 url: https://github.com/feder-cr/AIHawk
-stars: 31444
+stars: 31614
 topics:
 - agentic-ai
 - ai-agent
@@ -23,7 +23,7 @@ topics:
 - web-agent
 - web-automation
 - web-research
-updated: '2026-09-14'
+updated: '2026-09-21'
 ---
 
 Anti detect browser and web browsing agent: an open-source MCP server for undetected browsing, AI web scraping and computer use agents. No captchas.

@@ -1,6 +1,5 @@
-# scientific-discovery
+# karpathy-inspired
 
 ## Projects
 
-- [[projects/OpenNSWM-Lab-FAROS]]
 - [[projects/webfuse-com-awesome-autoresearch]]
