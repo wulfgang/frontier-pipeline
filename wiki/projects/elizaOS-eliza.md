@@ -18,7 +18,7 @@ topics:
 - slack
 - swarm
 - telegram
-updated: '2026-09-21'
+updated: '2026-09-22'
 ---
 
 Open source agentic operating system
