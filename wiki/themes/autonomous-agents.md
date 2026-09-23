@@ -15,3 +15,4 @@
 - [[projects/OthmanAdi-planning-with-files]]
 - [[projects/fathah-hermes-desktop]]
 - [[projects/webfuse-com-awesome-autoresearch]]
+- [[projects/feder-cr-invisible_playwright_mcp]]

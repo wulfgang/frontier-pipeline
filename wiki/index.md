@@ -65,3 +65,4 @@ Home for AI-agent project curation and Friday frontier reports.
 - [[projects/ComposioHQ-awesome-claude-skills]]
 - [[projects/camel-ai-oasis]]
 - [[projects/webfuse-com-awesome-autoresearch]]
+- [[projects/feder-cr-invisible_playwright_mcp]]

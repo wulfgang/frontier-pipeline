@@ -10,3 +10,4 @@
 - [[projects/feder-cr-AIHawk]]
 - [[projects/WenyuChiou-awesome-agentic-ai-zh]]
 - [[projects/fathah-hermes-desktop]]
+- [[projects/feder-cr-invisible_playwright_mcp]]
