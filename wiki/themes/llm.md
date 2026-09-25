@@ -27,3 +27,4 @@
 - [[projects/the-open-agent-openagent]]
 - [[projects/WenyuChiou-awesome-agentic-ai-zh]]
 - [[projects/fathah-hermes-desktop]]
+- [[projects/unclecode-crawl4ai]]

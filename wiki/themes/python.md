@@ -15,3 +15,4 @@
 - [[projects/Lumiwealth-lumibot]]
 - [[projects/ag2ai-ag2]]
 - [[projects/browser-use-browser-use]]
+- [[projects/unclecode-crawl4ai]]

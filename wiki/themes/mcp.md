@@ -17,3 +17,4 @@
 - [[projects/the-open-agent-openagent]]
 - [[projects/WenyuChiou-awesome-agentic-ai-zh]]
 - [[projects/ComposioHQ-awesome-claude-skills]]
+- [[projects/unclecode-crawl4ai]]

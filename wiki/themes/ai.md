@@ -32,3 +32,4 @@
 - [[projects/asgeirtj-system_prompts_leaks]]
 - [[projects/shanraisshan-claude-code-best-practice]]
 - [[projects/fathah-hermes-desktop]]
+- [[projects/unclecode-crawl4ai]]

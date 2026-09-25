@@ -1,7 +1,7 @@
 ---
 repo_id: browser-use/browser-use
 url: https://github.com/browser-use/browser-use
-stars: 114294
+stars: 116241
 topics:
 - ai-agents
 - ai-tools
@@ -10,7 +10,7 @@ topics:
 - llm
 - playwright
 - python
-updated: '2026-09-12'
+updated: '2026-09-25'
 ---
 
 Agents that use the browser.

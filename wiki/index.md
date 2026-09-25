@@ -66,3 +66,4 @@ Home for AI-agent project curation and Friday frontier reports.
 - [[projects/camel-ai-oasis]]
 - [[projects/webfuse-com-awesome-autoresearch]]
 - [[projects/feder-cr-invisible_playwright_mcp]]
+- [[projects/unclecode-crawl4ai]]
