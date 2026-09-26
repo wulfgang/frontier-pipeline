@@ -1,6 +1,5 @@
-# gemini-api
+# python-sdk
 
 ## Projects
 
-- [[projects/google-gemini-gemini-cli]]
 - [[projects/google-antigravity-antigravity-sdk-python]]

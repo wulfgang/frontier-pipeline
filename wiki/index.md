@@ -67,3 +67,5 @@ Home for AI-agent project curation and Friday frontier reports.
 - [[projects/webfuse-com-awesome-autoresearch]]
 - [[projects/feder-cr-invisible_playwright_mcp]]
 - [[projects/unclecode-crawl4ai]]
+- [[projects/beenuar-AiSOC]]
+- [[projects/google-antigravity-antigravity-sdk-python]]

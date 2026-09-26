@@ -1,6 +1,5 @@
-# self-hosted
+# detection-engineering
 
 ## Projects
 
-- [[projects/HKUDS-nanobot]]
 - [[projects/beenuar-AiSOC]]

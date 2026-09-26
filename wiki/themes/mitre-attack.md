@@ -1,6 +1,5 @@
-# self-hosted
+# mitre-attack
 
 ## Projects
 
-- [[projects/HKUDS-nanobot]]
 - [[projects/beenuar-AiSOC]]

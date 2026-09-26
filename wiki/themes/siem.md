@@ -1,6 +1,5 @@
-# self-hosted
+# siem
 
 ## Projects
 
-- [[projects/HKUDS-nanobot]]
 - [[projects/beenuar-AiSOC]]

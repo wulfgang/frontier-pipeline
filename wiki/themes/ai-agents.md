@@ -39,3 +39,4 @@
 - [[projects/ComposioHQ-awesome-claude-skills]]
 - [[projects/webfuse-com-awesome-autoresearch]]
 - [[projects/unclecode-crawl4ai]]
+- [[projects/google-antigravity-antigravity-sdk-python]]

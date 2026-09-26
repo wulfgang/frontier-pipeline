@@ -14,3 +14,5 @@
 - [[projects/WenyuChiou-awesome-agentic-ai-zh]]
 - [[projects/camel-ai-oasis]]
 - [[projects/webfuse-com-awesome-autoresearch]]
+- [[projects/beenuar-AiSOC]]
+- [[projects/google-antigravity-antigravity-sdk-python]]

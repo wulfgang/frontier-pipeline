@@ -18,3 +18,5 @@
 - [[projects/WenyuChiou-awesome-agentic-ai-zh]]
 - [[projects/ComposioHQ-awesome-claude-skills]]
 - [[projects/unclecode-crawl4ai]]
+- [[projects/beenuar-AiSOC]]
+- [[projects/google-antigravity-antigravity-sdk-python]]

@@ -1,6 +1,5 @@
-# self-hosted
+# incident-response
 
 ## Projects
 
-- [[projects/HKUDS-nanobot]]
 - [[projects/beenuar-AiSOC]]

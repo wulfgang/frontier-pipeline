@@ -1,6 +1,5 @@
-# self-hosted
+# soc
 
 ## Projects
 
-- [[projects/HKUDS-nanobot]]
 - [[projects/beenuar-AiSOC]]

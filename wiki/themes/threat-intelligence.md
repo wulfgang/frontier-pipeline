@@ -1,6 +1,5 @@
-# self-hosted
+# threat-intelligence
 
 ## Projects
 
-- [[projects/HKUDS-nanobot]]
 - [[projects/beenuar-AiSOC]]

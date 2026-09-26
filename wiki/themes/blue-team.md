@@ -1,6 +1,5 @@
-# self-hosted
+# blue-team
 
 ## Projects
 
-- [[projects/HKUDS-nanobot]]
 - [[projects/beenuar-AiSOC]]

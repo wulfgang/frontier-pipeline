@@ -8,3 +8,4 @@
 - [[projects/diegosouzapw-OmniRoute]]
 - [[projects/google-gemini-gemini-cli]]
 - [[projects/asgeirtj-system_prompts_leaks]]
+- [[projects/google-antigravity-antigravity-sdk-python]]

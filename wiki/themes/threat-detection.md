@@ -1,6 +1,5 @@
-# self-hosted
+# threat-detection
 
 ## Projects
 
-- [[projects/HKUDS-nanobot]]
 - [[projects/beenuar-AiSOC]]

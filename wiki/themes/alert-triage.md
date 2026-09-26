@@ -1,6 +1,5 @@
-# self-hosted
+# alert-triage
 
 ## Projects
 
-- [[projects/HKUDS-nanobot]]
 - [[projects/beenuar-AiSOC]]

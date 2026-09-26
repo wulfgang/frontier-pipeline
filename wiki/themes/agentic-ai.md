@@ -18,3 +18,4 @@
 - [[projects/microsoft-ai-agents-for-beginners]]
 - [[projects/WenyuChiou-awesome-agentic-ai-zh]]
 - [[projects/feder-cr-invisible_playwright_mcp]]
+- [[projects/beenuar-AiSOC]]
