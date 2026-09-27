@@ -1,7 +1,7 @@
 ---
 repo_id: firecrawl/firecrawl
 url: https://github.com/firecrawl/firecrawl
-stars: 184904
+stars: 185298
 topics:
 - ai
 - ai-agents
@@ -22,7 +22,7 @@ topics:
 - web-scraping
 - web-search
 - webscraping
-updated: '2026-09-26'
+updated: '2026-09-27'
 ---
 
 The web data API to search, scrape, and interact at scale. 🔥

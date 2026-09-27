@@ -1,7 +1,7 @@
 ---
 repo_id: OthmanAdi/planning-with-files
 url: https://github.com/OthmanAdi/planning-with-files
-stars: 26987
+stars: 27144
 topics:
 - agent-skills
 - autonomous-agents
@@ -23,7 +23,7 @@ topics:
 - multi-agent-systems
 - planning
 - session-recovery
-updated: '2026-09-19'
+updated: '2026-09-27'
 ---
 
 Persistent file-based planning for AI coding agents and long-running tasks. Crash-proof markdown plans, session recovery after /clear and compaction, per-turn re-injection against context rot, deterministic completion gate. Manus-style. Install from npm, the Claude Code plugin marketplace, or npx skills. Codex, Cursor, OpenCode, 60+ agents.

@@ -1,7 +1,7 @@
 ---
 repo_id: beenuar/AiSOC
 url: https://github.com/beenuar/AiSOC
-stars: 2369
+stars: 2370
 topics:
 - agentic-ai
 - ai-security
@@ -23,7 +23,7 @@ topics:
 - soc
 - threat-detection
 - threat-intelligence
-updated: '2026-09-26'
+updated: '2026-09-27'
 ---
 
 Open-source AI Security Operations Center: alert fusion, LLM-agent triage, MITRE ATT&CK investigation, and a replayable decision ledger for every agent step. Self-hostable, runs with no API keys, MIT licensed. Ships an MCP server for Claude, Cursor and Continue.
