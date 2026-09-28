@@ -1,7 +1,7 @@
 ---
 repo_id: flyteorg/flyte
 url: https://github.com/flyteorg/flyte
-stars: 7558
+stars: 7597
 topics:
 - agentic
 - ai-agents
@@ -23,7 +23,7 @@ topics:
 - python
 - scale
 - workflow
-updated: '2026-09-24'
+updated: '2026-09-28'
 ---
 
 Dynamic, resilient AI orchestration. Coordinate data, models, and compute as you build AI workflows.
