@@ -18,7 +18,7 @@ topics:
 - vfs
 - virtual-filesystem
 - virtual-terminal
-updated: '2026-09-28'
+updated: '2026-09-29'
 ---
 
 The World's First Virtual Terminal for AI Agents

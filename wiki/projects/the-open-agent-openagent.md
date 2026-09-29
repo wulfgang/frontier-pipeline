@@ -1,7 +1,7 @@
 ---
 repo_id: the-open-agent/openagent
 url: https://github.com/the-open-agent/openagent
-stars: 5660
+stars: 5665
 topics:
 - agent
 - agentic
@@ -22,7 +22,7 @@ topics:
 - openai
 - openclaw
 - rag
-updated: '2026-09-27'
+updated: '2026-09-29'
 ---
 
 ⚡️next-generation personal AI assistant powered by LLM, RAG and agent loops, supporting computer-use, browser-use and coding agent, demo: https://demo.openagentai.org

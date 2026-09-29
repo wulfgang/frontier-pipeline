@@ -1,7 +1,7 @@
 ---
 repo_id: Graphify-Labs/graphify
 url: https://github.com/Graphify-Labs/graphify
-stars: 122023
+stars: 122277
 topics:
 - ai-agents
 - antigravity
@@ -22,7 +22,7 @@ topics:
 - rag
 - skills
 - tree-sitter
-updated: '2026-09-28'
+updated: '2026-09-29'
 ---
 
 Turn any codebase, with its docs, SQL schemas, configs, and PDFs, into a queryable knowledge graph. A /graphify skill for Claude Code, Cursor, Codex, and Gemini CLI: local deterministic AST parsing, every edge explained, no vector store.
