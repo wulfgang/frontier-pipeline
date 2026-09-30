@@ -69,3 +69,6 @@ Home for AI-agent project curation and Friday frontier reports.
 - [[projects/unclecode-crawl4ai]]
 - [[projects/beenuar-AiSOC]]
 - [[projects/google-antigravity-antigravity-sdk-python]]
+- [[projects/vxcontrol-pentagi]]
+- [[projects/tigerless-labs-autoharness]]
+- [[projects/walkinglabs-learn-harness-engineering]]

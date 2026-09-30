@@ -17,3 +17,4 @@
 - [[projects/WenyuChiou-awesome-agentic-ai-zh]]
 - [[projects/ComposioHQ-awesome-claude-skills]]
 - [[projects/webfuse-com-awesome-autoresearch]]
+- [[projects/tigerless-labs-autoharness]]

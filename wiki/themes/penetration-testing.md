@@ -1,6 +1,5 @@
-# multi-agent-system
+# penetration-testing
 
 ## Projects
 
-- [[projects/ag2ai-ag2]]
 - [[projects/vxcontrol-pentagi]]

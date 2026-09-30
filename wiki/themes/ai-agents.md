@@ -40,3 +40,5 @@
 - [[projects/webfuse-com-awesome-autoresearch]]
 - [[projects/unclecode-crawl4ai]]
 - [[projects/google-antigravity-antigravity-sdk-python]]
+- [[projects/vxcontrol-pentagi]]
+- [[projects/walkinglabs-learn-harness-engineering]]

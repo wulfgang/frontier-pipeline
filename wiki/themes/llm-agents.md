@@ -16,3 +16,4 @@
 - [[projects/webfuse-com-awesome-autoresearch]]
 - [[projects/beenuar-AiSOC]]
 - [[projects/google-antigravity-antigravity-sdk-python]]
+- [[projects/tigerless-labs-autoharness]]

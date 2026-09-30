@@ -1,7 +1,7 @@
 ---
 repo_id: asgeirtj/system_prompts_leaks
 url: https://github.com/asgeirtj/system_prompts_leaks
-stars: 68424
+stars: 68646
 topics:
 - ai
 - ai-agents
@@ -23,7 +23,7 @@ topics:
 - prompt-engineering
 - system-prompt
 - system-prompts
-updated: '2026-09-27'
+updated: '2026-09-30'
 ---
 
 Documented system prompts from Anthropic - Claude Fable 5.1, Opus 5.5, Claude Design, Claude Code. OpenAI - ChatGPT GPT-6-Astra, Codex. Google - Gemini 3.8 Flash, 3.1 Pro, Antigravity. xAI - Grok, Grok Bot, Cursor, Kimi and more! Updated regularly.

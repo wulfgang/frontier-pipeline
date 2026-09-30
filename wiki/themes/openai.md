@@ -12,3 +12,4 @@
 - [[projects/Tencent-WeKnora]]
 - [[projects/asgeirtj-system_prompts_leaks]]
 - [[projects/the-open-agent-openagent]]
+- [[projects/vxcontrol-pentagi]]

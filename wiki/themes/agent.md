@@ -12,3 +12,4 @@
 - [[projects/agentscope-ai-agentscope-java]]
 - [[projects/genspark-ai-genoffice]]
 - [[projects/the-open-agent-openagent]]
+- [[projects/walkinglabs-learn-harness-engineering]]

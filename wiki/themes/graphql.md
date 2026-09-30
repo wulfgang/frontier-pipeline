@@ -1,6 +1,5 @@
-# multi-agent-system
+# graphql
 
 ## Projects
 
-- [[projects/ag2ai-ag2]]
 - [[projects/vxcontrol-pentagi]]

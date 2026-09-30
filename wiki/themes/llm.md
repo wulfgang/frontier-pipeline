@@ -28,3 +28,4 @@
 - [[projects/WenyuChiou-awesome-agentic-ai-zh]]
 - [[projects/fathah-hermes-desktop]]
 - [[projects/unclecode-crawl4ai]]
+- [[projects/walkinglabs-learn-harness-engineering]]

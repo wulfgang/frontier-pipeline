@@ -16,3 +16,4 @@
 - [[projects/ag2ai-ag2]]
 - [[projects/genspark-ai-genoffice]]
 - [[projects/the-open-agent-openagent]]
+- [[projects/walkinglabs-learn-harness-engineering]]

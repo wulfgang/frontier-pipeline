@@ -8,3 +8,4 @@
 - [[projects/agentscope-ai-agentscope-java]]
 - [[projects/chaitanyagiri-munder-difflin]]
 - [[projects/the-open-agent-openagent]]
+- [[projects/walkinglabs-learn-harness-engineering]]

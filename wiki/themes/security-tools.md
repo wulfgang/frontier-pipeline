@@ -1,6 +1,5 @@
-# multi-agent-system
+# security-tools
 
 ## Projects
 
-- [[projects/ag2ai-ag2]]
 - [[projects/vxcontrol-pentagi]]
