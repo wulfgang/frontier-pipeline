@@ -1,0 +1,16 @@
+{
+  "hard_pass": false,
+  "soft_pass": true,
+  "issues": [
+    {
+      "severity": "hard",
+      "code": "ungrounded",
+      "message": "ranked project 'Significant-Gravitas/AutoGPT' citation not in allowed sources: wiki/projects/Atomic.md"
+    },
+    {
+      "severity": "hard",
+      "code": "ungrounded",
+      "message": "ranked project 'crewAIInc/crewAI' citation not in allowed sources: wiki/projects/crewAIInc/crewAI.md"
+    }
+  ]
+}
