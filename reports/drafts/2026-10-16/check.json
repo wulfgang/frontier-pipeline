@@ -1,0 +1,31 @@
+{
+  "hard_pass": false,
+  "soft_pass": true,
+  "issues": [
+    {
+      "severity": "hard",
+      "code": "ungrounded",
+      "message": "ranked project 'langchain-ai/langchain' citation not in allowed sources: https://www.bloomberg.com/news/articles/2026-10-16/coreweave-faces-funding-risks-as-costs-rise-video"
+    },
+    {
+      "severity": "hard",
+      "code": "ungrounded",
+      "message": "ranked project 'langchain-ai/langchain' citation not in allowed sources: wiki/projects/Lumiwealth/lumibot.md"
+    },
+    {
+      "severity": "hard",
+      "code": "ungrounded",
+      "message": "ranked project 'ComposioHQ/awesome-claude-skills' citation not in allowed sources: wiki/projects/affaan-m/ECC.md"
+    },
+    {
+      "severity": "hard",
+      "code": "ungrounded",
+      "message": "ranked project 'crewAIInc/crewAI' citation not in allowed sources: wiki/projects/crewAIInc/crewAI.md"
+    },
+    {
+      "severity": "hard",
+      "code": "ungrounded",
+      "message": "ranked project 'Graphify-Labs/graphify' citation not in allowed sources: https://www.bloomberg.com/news/articles/2026-10-16/coreweave-faces-funding-risks-as-costs-rise-video"
+    }
+  ]
+}
