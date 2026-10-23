@@ -1,0 +1,11 @@
+{
+  "hard_pass": false,
+  "soft_pass": true,
+  "issues": [
+    {
+      "severity": "hard",
+      "code": "ungrounded",
+      "message": "ranked project 'NousResearch/hermes-agent' citation not in allowed sources: https://www.bloomberg.com/news/articles/2026-10-23/ai-trade-faces-earnings-test-market-snapshot-video"
+    }
+  ]
+}
