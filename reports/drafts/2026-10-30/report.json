@@ -1,0 +1,120 @@
+{
+  "title": "Frontier AI-Agent Project Ranking Report",
+  "report_date": "2026-10-30",
+  "ranked_projects": [
+    {
+      "repo_id": "NousResearch/hermes-agent",
+      "rank": 1,
+      "rationale": "Highest star count (250,225) among all AI agent repositories; explicitly positioned as 'the agent that grows with you', indicating strong product-market fit and iterative user-centric design. Directly leverages Anthropic's Claude ecosystem \u2014 a key frontier stack highlighted across multiple Bloomberg reports on AI experience quality and enterprise adoption.",
+      "business_case": "Hermes-Agent serves as a flagship open-source reference implementation for production-grade, adaptive AI agents. Its integration with Claude, OpenAI, and Codex positions it as a universal agent runtime layer \u2014 enabling rapid verticalization (e.g., finance via Lumibot, security via AiSOC) while capturing developer mindshare and tooling ecosystem value. High stars signal low-friction adoption and community validation critical for commercial SDKs and managed agent services.",
+      "citations": [
+        "wiki/projects/NousResearch-hermes-agent.md",
+        "https://www.bloomberg.com/news/videos/2026-10-30/apple-iphone-duo-not-great-ai-experience-piecyk-says-video",
+        "https://www.bloomberg.com/news/articles/2026-10-30/tech-stocks-poised-to-drop-after-amazon-adds-to-ai-spending-fear"
+      ]
+    },
+    {
+      "repo_id": "Graphify-Labs/graphify",
+      "rank": 2,
+      "rationale": "Second-highest star count (122,277); uniquely bridges AI agents and deterministic code intelligence via AST-based knowledge graphs \u2014 directly addressing the 'context rot' and 'planning' challenges cited in top-tier agent frameworks. Explicit support for Claude Code, Cursor, Codex, and Gemini CLI makes it infrastructural to the agentic coding workflow.",
+      "business_case": "Graphify enables enterprise-grade codebase intelligence without vector store latency or hallucination risk \u2014 a critical differentiator for regulated industries (finance, healthcare, defense). Its local, deterministic parsing model supports air-gapped deployments and auditability, unlocking B2B licensing and embedded analytics in IDEs and CI/CD platforms.",
+      "citations": [
+        "wiki/projects/Graphify-Labs-graphify.md",
+        "wiki/projects/OthmanAdi-planning-with-files.md",
+        "https://www.bloomberg.com/news/articles/2026-10-29/roblox-users-miss-estimates-despite-hit-game-steal-an-egg"
+      ]
+    },
+    {
+      "repo_id": "firecrawl/firecrawl",
+      "rank": 3,
+      "rationale": "Third-highest star count (186,893); solves the foundational data ingestion bottleneck for agentic systems \u2014 transforming unstructured web content into LLM-ready structured data. Critical enabler for autonomous research (FAROS), market intelligence (AIHawk), and RAG-powered agents (WeKnora, RAGFlow). Aligns with Bloomberg\u2019s reporting on AI-driven data demand across semiconductors (Kioxia, CXMT) and infrastructure (Chevron/Microsoft).",
+      "business_case": "Firecrawl is the de facto open-source standard for web data extraction in AI agent stacks. Its API-first architecture supports both self-hosted and cloud-managed tiers, enabling monetization via high-throughput, low-latency data pipelines for financial, legal, and competitive intelligence use cases. Demand is amplified by AI spending surges (Amazon, Intel) and AI-driven storage needs (Kioxia, CXMT).",
+      "citations": [
+        "wiki/projects/firecrawl-firecrawl.md",
+        "https://www.bloomberg.com/news/articles/2026-10-30/kioxia-s-profit-jumps-due-to-ballooning-ai-data-storage-needs",
+        "https://www.bloomberg.com/news/articles/2026-10-30/chinese-chip-leader-cxmt-s-sales-rise-sevenfold-yet-growth-slows",
+        "https://www.bloomberg.com/news/articles/2026-10-30/chevron-keeps-microsoft-data-center-timeline-despite-texas-pause"
+      ]
+    },
+    {
+      "repo_id": "ComposioHQ/awesome-claude-skills",
+      "rank": 4,
+      "rationale": "High star count (75,263) and explicit focus on skill curation for Claude \u2014 the dominant LLM platform referenced across Bloomberg coverage of AI experience quality (Apple iPhone Duo critique) and enterprise tooling (Claude Code, Cursor). Functions as a critical discovery layer for the $6.3B+ AI agent tooling economy.",
+      "business_case": "As AI agent complexity increases, standardized, auditable, and interoperable skills become essential infrastructure. Awesome-Claude-Skills establishes composability standards and reduces integration friction for SaaS vendors, ISVs, and internal dev teams building on Claude \u2014 creating opportunities for marketplace, certification, and skill-as-a-service offerings.",
+      "citations": [
+        "wiki/projects/ComposioHQ-awesome-claude-skills.md",
+        "https://www.bloomberg.com/news/videos/2026-10-30/apple-iphone-duo-not-great-ai-experience-piecyk-says-video",
+        "https://www.bloomberg.com/news/articles/2026-10-29/amazon-spending-soars-on-effort-to-meet-demand-for-ai-services"
+      ]
+    },
+    {
+      "repo_id": "IBM/AssetOpsBench",
+      "rank": 5,
+      "rationale": "Only benchmark explicitly designed for Industry 4.0 physical asset operations \u2014 directly addressing cybersecurity + supply chain disruption themes highlighted in Bloomberg coverage of Stryker (cyberattack impact), Intel (PC slump), and Chevron (data center infrastructure). Integrates MCP and multi-agent orchestration for real-world industrial AI.",
+      "business_case": "AssetOpsBench provides verifiable performance metrics and interoperability blueprints for AI agents operating in mission-critical physical environments (HVAC, IoT, predictive maintenance). Enables enterprise sales to manufacturing, energy, and healthcare sectors seeking AI ROI with regulatory compliance and failure-mode transparency \u2014 countering broad AI spending skepticism.",
+      "citations": [
+        "wiki/projects/IBM-AssetOpsBench.md",
+        "https://www.bloomberg.com/news/articles/2026-10-29/stryker-cuts-outlook-as-cyberattack-impact-on-supply-lingers",
+        "https://www.bloomberg.com/news/articles/2026-10-29/intel-outlook-hurt-by-weak-market-for-personal-computer-chips",
+        "https://www.bloomberg.com/news/articles/2026-10-30/chevron-keeps-microsoft-data-center-timeline-despite-texas-pause"
+      ]
+    },
+    {
+      "repo_id": "beenuar/AiSOC",
+      "rank": 6,
+      "rationale": "Directly addresses the acute cybersecurity theme dominating Bloomberg headlines (Binance $6.3B hack, Stryker cyberattack, Meta UK investigation). Combines MITRE ATT&CK, self-hosted LLM triage, and MCP compatibility \u2014 making it the only open-source AI SOC built for zero-trust, offline, and regulated environments.",
+      "business_case": "AiSOC delivers an auditable, self-hosted alternative to proprietary SOAR/SIEM vendors, targeting mid-market and government buyers increasingly wary of cloud-based AI security tools after high-profile breaches. Its MIT license and no-API-key architecture enable white-labeled deployments and integration into existing MSSP workflows.",
+      "citations": [
+        "wiki/projects/beenuar-AiSOC.md",
+        "https://www.bloomberg.com/news/videos/2026-10-30/binance-says-6-3-billion-hacked-in-largest-crypto-heist-video",
+        "https://www.bloomberg.com/news/articles/2026-10-29/stryker-cuts-outlook-as-cyberattack-impact-on-supply-lingers",
+        "https://www.bloomberg.com/news/articles/2026-10-30/meta-investigated-by-uk-over-alleged-harm-caused-in-commercial-small-print"
+      ]
+    },
+    {
+      "repo_id": "Lumiwealth/lumibot",
+      "rank": 7,
+      "rationale": "Only AI agent framework explicitly built for live trading execution across 12 brokers and asset classes \u2014 bridging generative AI and real-world capital markets. Aligns with Bloomberg\u2019s reporting on AI-driven financial infrastructure demand and volatility concerns amid rising tech spending.",
+      "business_case": "Lumibot enables quant shops and fintechs to rapidly prototype and deploy AI agents for algorithmic trading, risk management, and alpha generation \u2014 with backtesting rigor and production broker integrations. Monetizable via premium broker connectors, strategy templates, and institutional-grade observability add-ons.",
+      "citations": [
+        "wiki/projects/Lumiwealth/lumibot.md",
+        "https://www.bloomberg.com/news/articles/2026-10-30/tech-stocks-poised-to-drop-after-amazon-adds-to-ai-spending-fear",
+        "https://www.bloomberg.com/news/articles/2026-10-30/us-stock-futures-today-amazon-intel-mondelez-reddit-stryker"
+      ]
+    },
+    {
+      "repo_id": "OpenNSWM-Lab/FAROS",
+      "rank": 8,
+      "rationale": "Specialized academic research agent with blueprint-driven orchestration \u2014 directly supporting AI-for-science themes gaining traction per Bloomberg\u2019s Eastern Europe AI diversification report and growing emphasis on sovereign AI infrastructure. Addresses reproducibility and peer-review gaps in AI-assisted science.",
+      "business_case": "FAROS targets university labs, national research institutes, and biotech R&D teams seeking AI co-pilots with full provenance tracking, paper-generation automation, and experiment reproducibility \u2014 enabling grant-funded AI adoption and publication acceleration in high-impact domains like drug discovery and materials science.",
+      "citations": [
+        "wiki/projects/OpenNSWM-Lab-FAROS.md",
+        "https://www.bloomberg.com/news/articles/2026-10-30/eastern-europe-is-top-ai-diversifier-for-morgan-stanley-s-psaila",
+        "https://www.bloomberg.com/news/articles/2026-10-30/chevron-keeps-microsoft-data-center-timeline-despite-texas-pause"
+      ]
+    },
+    {
+      "repo_id": "browser-use/browser-use",
+      "rank": 9,
+      "rationale": "High star count (116,352) and narrow technical focus on browser automation \u2014 a foundational capability for AI agents performing real-world tasks (job search, price monitoring, research). Complements Bloomberg-reported enterprise concerns around digital labor productivity and automation ROI.",
+      "business_case": "Browser-use provides a reliable, Playwright-based substrate for AI agents interacting with legacy web applications \u2014 enabling automation in procurement, compliance, and customer service verticals where APIs are unavailable. Commercial potential lies in enterprise support, anti-detection enhancements (as seen in AIHawk), and low-code workflow builders.",
+      "citations": [
+        "wiki/projects/browser-use-browser-use.md",
+        "https://www.bloomberg.com/news/articles/2026-10-30/doordash-deal-for-instacart-bolsters-defense-against-amazon-and-walmart",
+        "https://www.bloomberg.com/news/articles/2026-10-29/roblox-users-miss-estimates-despite-hit-game-steal-an-egg"
+      ]
+    },
+    {
+      "repo_id": "Tencent/WeKnora",
+      "rank": 10,
+      "rationale": "Strong enterprise orientation (multi-tenant, RAG, Wiki, autonomous reasoning) from a major Chinese tech firm \u2014 aligning with Bloomberg\u2019s reporting on CXMT\u2019s AI-driven memory growth and geopolitical diversification trends. Represents strategic infrastructure for sovereign AI knowledge management.",
+      "business_case": "WeKnora offers a complete open-source stack for building internal AI knowledge bases with autonomous reasoning and self-maintenance \u2014 appealing to global enterprises seeking alternatives to US-centric RAG vendors amid regulatory fragmentation and data sovereignty mandates. Licensing and support for hybrid-cloud deployments are primary revenue vectors.",
+      "citations": [
+        "wiki/projects/Tencent-WeKnora.md",
+        "https://www.bloomberg.com/news/articles/2026-10-30/chinese-chip-leader-cxmt-s-sales-rise-sevenfold-yet-growth-slows",
+        "https://www.bloomberg.com/news/articles/2026-10-30/eastern-europe-is-top-ai-diversifier-for-morgan-stanley-s-psaila"
+      ]
+    }
+  ],
+  "claims": []
+}

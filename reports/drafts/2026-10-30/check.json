@@ -1,0 +1,16 @@
+{
+  "hard_pass": false,
+  "soft_pass": true,
+  "issues": [
+    {
+      "severity": "hard",
+      "code": "ungrounded",
+      "message": "ranked project 'Lumiwealth/lumibot' citation not in allowed sources: wiki/projects/Lumiwealth/lumibot.md"
+    },
+    {
+      "severity": "hard",
+      "code": "ungrounded",
+      "message": "ranked project 'browser-use/browser-use' citation not in allowed sources: https://www.bloomberg.com/news/articles/2026-10-30/doordash-deal-for-instacart-bolsters-defense-against-amazon-and-walmart"
+    }
+  ]
+}
