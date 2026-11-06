@@ -1,0 +1,21 @@
+{
+  "hard_pass": false,
+  "soft_pass": true,
+  "issues": [
+    {
+      "severity": "hard",
+      "code": "ungrounded",
+      "message": "ranked project 'mem0ai/mem0' citation not in allowed sources: wiki/projects/thedotmack/claude-mem.md"
+    },
+    {
+      "severity": "hard",
+      "code": "ungrounded",
+      "message": "ranked project 'thedotmack/claude-mem' citation not in allowed sources: wiki/projects/thedotmack/claude-mem.md"
+    },
+    {
+      "severity": "hard",
+      "code": "ungrounded",
+      "message": "ranked project 'crewAIInc/crewAI' citation not in allowed sources: wiki/projects/crewAIInc/crewAI.md"
+    }
+  ]
+}
